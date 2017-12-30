@@ -3,7 +3,7 @@
 > I will code for at least an hour every day for the next 100 days. I’ve decided to make this a public commitment.
 
 ## The Why
-A couple of months ago I made a promise to myself; *spend an hour every day learning new stuff*. And yes, in the weekends I would watch a course or read some articles but the time devoted on learning was really inconsistent. 
+A couple of months ago I made a promise to myself; *spend an hour every day learning new stuff*. And yes, in the weekends I would watch a course or read some articles but the time devoted on *'learning'* was really inconsistent. 
 
 By making this *public* I am trying to commit to this promise. The idea is to track my progress and keep a log of each day writing down the stuff I learned and the tasks I completed along the way.
 
