@@ -21,7 +21,7 @@
 
 **Progress**: Completed 24 items of the freeCodeCamp Basic JavaScript challenges.
 
-**Notes:** Had a pretty long day at work and started pretty late. Would like to do spend some time in the morning (on commute) and maybe split that hour up in multiple time frames. The challenges take some more time and that combined with the late time frame is the reason why I didn't complete that many challenges. Hope I can finish up the Basic JavaScript course tomorrow and start with the Functional Program section.
+**Notes:** Had a pretty long day at work and started late with my daily hour. Would like to do spend some time in the morning (on commute) and maybe split that hour up in multiple time frames. These challenges take some more time and combined with the time is the reason why I didn't complete that many of them. Hope I can finish up the Basic JavaScript course tomorrow and start with the Functional Program section.
 
 * `Else statements`
 * `Switch Statements`
