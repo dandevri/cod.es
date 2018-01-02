@@ -11,8 +11,26 @@
 * `Data types within JavaScript (undefined, null, nan)`
 * `Assignment, Arithmetic, Compound operators`
 
-**Results:** You can see my contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri).
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri).
 
 **Resources:** [freeCodeCamp Basic Javascript](https://www.freecodecamp.org)
 
 **Time:** 1h 00m 36s
+
+### Day 2: 02.01.2018  
+
+**Progress**: Completed 24 items of the freeCodeCamp Basic JavaScript challenges.
+
+**Notes:** Had a pretty long day at work and started pretty late. Would like to do spend some time in the morning (on commute) and maybe split that hour up in multiple time frames. The challenges take some more time and that combined with the late time frame is the reason why I didn't complete that many challenges. Hope I can finish up the Basic JavaScript course tomorrow and start with the Functional Program section.
+
+* `Else statements`
+* `Switch Statements`
+* `Objects; properties, keys, values`
+* `Accessing values with dot and bracket notation`
+* `Manipulating 'complex' objects (with nested objects and arrays)`
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri).
+
+**Resources:** [freeCodeCamp Basic Javascript](https://www.freecodecamp.org)
+
+**Time:** 1h 01m 46s
