@@ -34,3 +34,20 @@
 **Resources:** [freeCodeCamp Basic Javascript](https://www.freecodecamp.org)
 
 **Time:** 1h 01m 46s
+
+### Day 3: 03.01.2018  
+
+**Progress**: Completed 28 items of the freeCodeCamp Basic JavaScript and Functional Programming challenges.
+
+**Notes:** Finished the Basic Javascript and Functional challenes as stated yesterday. Might go through the Functional ones again tomorrow to make sure I got those down. I split up my session today, 30 in the morning and 30 in the evening, feels like a nice balance so it's not that heavy to do all at once in the evening.
+
+* `For, While (loops) statements`
+* `Basic Regular Expressions`
+* `Objects and constructors`
+* `Array Methods (map, filter)`
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri).
+
+**Resources:** [freeCodeCamp Basic Javascript](https://www.freecodecamp.org)
+
+**Time:** 1h 01m 59s
