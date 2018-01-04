@@ -39,7 +39,7 @@
 
 **Progress**: Completed 28 items of the freeCodeCamp Basic JavaScript and Functional Programming challenges.
 
-**Notes:** Finished the Basic Javascript and Functional challenes as stated yesterday. Might go through the Functional ones again tomorrow to make sure I got those down. I split up my session today, 30 in the morning and 30 in the evening, feels like a nice balance so it's not that heavy to do all at once in the evening.
+**Notes:** Finished the Basic Javascript and Functional challenges as stated yesterday. Might go through the Functional ones again tomorrow to make sure I got those down. I split up my session today, 30 in the morning and 30 in the evening, feels like a nice balance so it's not that heavy to do all at once in the evening.
 
 * `For, While (loops) statements`
 * `Basic Regular Expressions`
@@ -51,3 +51,19 @@
 **Resources:** [freeCodeCamp Basic Javascript](https://www.freecodecamp.org)
 
 **Time:** 1h 01m 59s
+
+### Day 4: 04.01.2018  
+
+**Progress**: Completed the freeCodeCamp Functional programming section again and finished 4 algorithm challenges.
+
+**Notes:** Spend the morning during my commute to go over the Functional programming section again. Nice to really get this down. In the evening I worked on the Algorithm challenges. The code of each challenge isn't really that 'hard' but researching to get the right answers takes some time.
+
+* It really helps to split up each scripting challenge in really small steps.
+* Don't give up and go to the hint too early. If I had taken a little more time I could have completed the *palindrome challenge* on my own but went to the hint instead. Prefer to take some more time (and do less challenges at the end of the day) then to go to the hint straight away. 
+* I don't think all of these challenges are things you come across everyday but they sure make you think like a programmer. Search for the problems in the documentation and take one step at a time.
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri) but since I went trough the functional program section again you don't see those contributions in the graph.
+
+**Resources:** [freeCodeCamp BasicAlgorithm Scriptingt](https://www.freecodecamp.org)
+
+**Time:** 1h 08m 52s
