@@ -64,6 +64,20 @@
 
 **Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri) but since I went trough the functional program section again you don't see those contributions in the graph.
 
-**Resources:** [freeCodeCamp BasicAlgorithm Scriptingt](https://www.freecodecamp.org)
+**Resources:** [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
 
 **Time:** 1h 08m 52s
+
+### Day 5: 05.01.2018  
+
+**Progress**: Completed 4 Basic Algorithm challenges.
+
+**Notes:** It's pretty frustrating that from the four challenges I need to see the hints for two them. I get to around 80% of the desired result and I can't finish the last 20%. It's mostly just one word or one line and that bothers me. Maybe I need to change my strategy for searching or need to make a rule that I finish the challenge without looking at the hint. Once you see part of the solution you get that aha moment and I can complete it but maybe it feels even better if I can complete one without looking.
+
+Also thinking about switching it up more. Doing those challenges for one hour straight is pretty frustrating at moments. Oh well, maybe I just need to bite the bullet.
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri.
+
+**Resources:** [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
+
+**Time:** 1h 06 m47 s18
