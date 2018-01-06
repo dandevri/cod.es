@@ -80,4 +80,20 @@ Also thinking about switching it up more. Doing those challenges for one hour st
 
 **Resources:** [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
 
-**Time:** 1h 06 m47 s18
+**Time:** 1h 06m 47s
+
+### Day 6: 06.01.2018  
+
+**Progress**: Completed 2 Basic Algorithm challenges and spend the rest of the day on the NodeSchool Javascripting Workshopper.
+
+**Notes:** Not the most focused day, didn't really feel like I made alot of progress. Felt a bit distracted. I really like the interactive workshopper from NodeSchool it feels more hands on instead of being stuck in the freeCodeCamp editor. With what I was thing earlier, I do feel like I can get more done if I don't to the algorithm challenge for a full hour but switch it up with another resource.
+
+So the goal is to maybe 2 or 3 algorithm challenges (30 minutes) and spend the rest of the hour on another resource. Then the hour minimum goes by really quickly and I even feel like I can code for more than the minimum hour while it's still feels fun.
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri. I've pushed the NodeSchool Workshopper exercises to this repo.
+
+**Resources:** 
+* [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
+* [NodeSchool Workshopper - JavaScripting](https://www.github.com/sethvincent/javascripting)
+
+**Time:** 1h 04m 32s
