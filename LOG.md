@@ -76,7 +76,7 @@
 
 Also thinking about switching it up more. Doing those challenges for one hour straight is pretty frustrating at moments. Oh well, maybe I just need to bite the bullet.
 
-**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri.
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri).
 
 **Resources:** [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
 
@@ -90,10 +90,30 @@ Also thinking about switching it up more. Doing those challenges for one hour st
 
 So the goal is to maybe 2 or 3 algorithm challenges (30 minutes) and spend the rest of the hour on another resource. Then the hour minimum goes by really quickly and I even feel like I can code for more than the minimum hour while it's still feels fun.
 
-**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri. I've pushed the NodeSchool Workshopper exercises to this repo.
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri). I've pushed the NodeSchool Workshopper exercises to this repo.
 
 **Resources:** 
 * [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
 * [NodeSchool Workshopper - JavaScripting](https://www.github.com/sethvincent/javascripting)
 
 **Time:** 1h 04m 32s
+
+
+### Day 7: 07.01.2018  
+
+**Progress**: Completed 3 Basic Algorithm challenges and finished the NodeSchool JavaScripting challenges.
+
+**Notes:** The Basic Algorithm challenges are coming to an end and I've finished the NodeSchool challenges. I did more resources then expected in the first week. These resources may not be the most challenging right now but still, when I started I thought these would take me more time to complete. The goal is to finish the Basic algorithm challenges tomorrow and then if I have time left figure out what resource to take next. 
+
+Probably going to do [one](https://github.com/timoxley/functional-javascript-workshop) or [two]
+(https://github.com/workshopper/scope-chains-closures) JavaScript related workshoppers from NodeSchool and read through the [MDN - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) section about JavaScript. They explain some of the more topics a little bit more in-depth.
+
+After that I think I've freshened up my basic JavaScript knowledge enough to start with the ES6 course by Wes Bos and then move onto JavaScript 30 cause it uses some ES6 syntax.
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri). I've pushed the NodeSchool Workshopper exercises to this repo.
+
+**Resources:** 
+* [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
+* [NodeSchool Workshopper - JavaScripting](https://www.github.com/sethvincent/javascripting)
+
+**Time:** 1h 06m 08s
