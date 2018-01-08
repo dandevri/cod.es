@@ -117,3 +117,18 @@ After that I think I've freshened up my basic JavaScript knowledge enough to sta
 * [NodeSchool Workshopper - JavaScripting](https://www.github.com/sethvincent/javascripting)
 
 **Time:** 1h 06m 08s
+
+### Day 8: 08.01.2018  
+
+**Progress**: Started with the Functional JavaScript workshopper.
+
+**Notes:** Didn't really grasp the concepts of this Workshopper and felt they were a little too verbose for my taste. Maybe it's nice to do these again in a later stadium but for now I don't really think I grasp the concepts that well. Still pushed the first couple of challenges to this repo.
+
+Think it's better to finish the remaining freeCodeCamp Algorithm challenges first and learn some more basic stuff from the MDN documentation. Maybe look at some more basic 'easy' resources to do in the meantime.
+
+**Results:** I've pushed the first NodeSchool Workshopper exercises to this repo.
+
+**Resources:** 
+* [NodeSchool Workshopper - Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
+
+**Time:** 1h 03m 33s
