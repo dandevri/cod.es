@@ -132,3 +132,25 @@ Think it's better to finish the remaining freeCodeCamp Algorithm challenges firs
 * [NodeSchool Workshopper - Functional JavaScript](https://github.com/timoxley/functional-javascript-workshop)
 
 **Time:** 1h 03m 33s
+
+
+### Day 9: 09.01.2018  
+
+**Progress**: Completed 2 Basic Algorithm challenges and started reading the MDN Learn Web Development Resource.
+
+**Notes:** Still really like the mix between practical examples and reading. The MDN documentation is really written with beginners in mind. It's nice as a refresher and I really like how clear it's written but for me it can be a little more complex but I suppose that will come later. It's never a bad idea to skim trough some basic terminology.
+
+Hope to finish the last two algorithm challenges tomorrow so I can check those off. Maybe even do them again later in the 100 days and see if I made any improvements and if I can complete them faster with less hints.
+
+I do feel like that it's best to sit at home for more practical examples so I can focus more and in the train do some casual reading while taking notes.
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri). The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [freeCodeCamp Basic Algorithm Scripting](https://www.freecodecamp.org)
+* [MDN - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+
+**Time:** 1h 03m 33s
+
+
