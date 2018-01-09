@@ -151,6 +151,6 @@ I do feel like that it's best to sit at home for more practical examples so I ca
 * [MDN - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 
-**Time:** 1h 03m 33s
+**Time:** 1h 01m 12s
 
 
