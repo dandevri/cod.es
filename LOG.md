@@ -153,4 +153,9 @@ I do feel like that it's best to sit at home for more practical examples so I ca
 
 **Time:** 1h 01m 12s
 
+### Day 10: 10.01.2018
+
+**Progress**: Progress wasn't tracked.
+
+**Notes:** So I kinda coded for about 65± minutes today while I had some time left at work. So I kinda broke the rule that coding at work doesn't count towards 'official' time. But that's kinda not also true because I was reading some more JavaScript MDN documentation, just not the one where I left off. So I also kinda tracked my time doing it. So I kinda let this one slip trough the cracks and will spent atleast 2 hours tomorrow to kinda compensate.
 
