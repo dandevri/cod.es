@@ -35,3 +35,50 @@ The meaning is slightly different in the two contexts, but related, and both app
 This requires a mixture of hard work, experience with the programming syntax, and practice.
 
 Break up a brief in small steps, actionable tasks.
+
+Functions are reusable blocks of code that you can write once and then you can reuse. 
+
+'Events' are actions that happen in the browser. In response we can run blocks of code.
+
+It listens for an event 'event listeners' and blocks of code 'event handlers' are run in response of firing.
+
+In JavaScript everything is an object. An object is a collection of related functionality stored in a single grouping. 
+
+The browser contains a couple of built-in objects.
+
+For example: `document.querySelector` querySelector is a method of the document object.
+
+## What went wrong?
+
+Two main types of errors:
+
+* Syntax errors: basically spelling errors. Most of the time error messages in console.
+* Logic errors: syntax is correct but code gives incorrect results. No error message in console.
+
+**Fixing syntax errors:**
+Console gives error messages whenever there is a syntax error inside the JavaScript engine.
+
+**Common Errors:**
+* missing ; before statement
+* missing ) after argument list
+* missing: after property id
+* missing } after function body
+* unterminated string literal
+
+## Storing the information you need
+Variable is a cointer vor a value. *Variables aren't the values themselves; they are containers for values. You can think of them being like little cardboard boxes that you can store things in.*
+
+Don't confuse a variable that exists but has no value defined with a variable that doesn't exist at all — they are very different things.
+
+Naming a variable has some specific conventions. 
+
+There are different types of date we can store in variables. In JS you don't have to declare variable types.
+
+* numbers: integers or floats
+* string; pieces of text
+* booleans; true / false
+* arrays; single object that contains multiple values. Acces with index. zero-based.
+* objects: models a real life object.
+
+**Loose typing:**
+Don't need to specify what data type a variable will contain.
