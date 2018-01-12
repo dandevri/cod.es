@@ -159,3 +159,21 @@ I do feel like that it's best to sit at home for more practical examples so I ca
 
 **Notes:** So I kinda coded for about 65± minutes today while I had some time left at work. So I kinda broke the rule that coding at work doesn't count towards 'official' time. But that's kinda not also true because I was reading some more JavaScript MDN documentation, just not the one where I left off. So I also kinda tracked my time doing it. So I kinda let this one slip trough the cracks and will spent atleast 2 hours tomorrow to kinda compensate.
 
+### Day 11: 11.01.2018  
+
+**Progress**: Continued reading the MDN - Learn Web Development JavaScript section.
+
+**Notes:** As stated before, it's really nice to read these sections on MDN. They have a nice balance between theory and practical examples. The descriptions are one of the clearest I've read. It's nice that they also make a clean distinction between core JavaScript language theory and Browser specific elements.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+* [MDN - What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+* [MDN - A first splash into JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+* [MDN - What went wrong?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
+* [MDN - Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+
+
+**Time:** 1h 27m 58s
+
