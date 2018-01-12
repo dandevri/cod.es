@@ -174,6 +174,21 @@ I do feel like that it's best to sit at home for more practical examples so I ca
 * [MDN - What went wrong?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong)
 * [MDN - Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 
-
 **Time:** 1h 27m 58s
+
+### Day 12: 12.01.2018  
+
+**Progress**: Finished reading the first JavaScript Learn Web Development Module.
+
+**Notes:** The section covered most of the basic JavaScript keywords and data types. Nice to go trough and while reading I try to code along. The theory is mostly the same from freeCodeCamp but they focus a bit more on assignments and practical examples. MDN does have some 'active learning' parts in it but they just explain a little bit more in-depth. 
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Basic Math in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+* [MDN - Handling Text](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+* [MDN - Useful string methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+* [MDN - Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+
+**Time:** 1h 02m 13s
 
