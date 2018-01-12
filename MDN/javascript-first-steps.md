@@ -82,3 +82,43 @@ There are different types of date we can store in variables. In JS you don't hav
 
 **Loose typing:**
 Don't need to specify what data type a variable will contain.
+
+## Basic math in JavaScript
+
+* Integers: whole numbers
+* Floating point numbers: decimal points
+* Doubles: specific type of floating point numbers
+
+* Binary: Lowest level language, 0s and 1s.
+* Octal: Base 8, 0-7
+* Hexadecimal: Base 16 0-9 and a-f
+
+Operator precendence; some operators will be applied before others.
+
+* Artithmetic operators
+* Increment and decrement operatos
+* Comparison operators
+* Assignment operators
+
+Comparison operators don't only work on numbers, also on string. Control that swaps between two states is referred to as a toggle.
+
+## Handling text
+Concatenating means 'join together'. 
+
+When you enter an acutal string in your code, it is called a string literal. 
+
+Browser converts numbers to strings by default.
+
+## Useful string methods
+Again, everything in JavaScript is an object. So a string is a string object instance. You can use methods on it.
+
+## Arrays
+
+List-like objects. Single objects that contain multiple values stored in a list.
+
+Access items in arrays with bracket notation.
+
+Array inside an array is called a multidimensional array.
+
+* Push and pop at end of the array.
+* Shift and unshift at beginning.
