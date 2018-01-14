@@ -192,3 +192,20 @@ I do feel like that it's best to sit at home for more practical examples so I ca
 
 **Time:** 1h 02m 13s
 
+### Day 13: 13.01.2018  
+
+**Progress**: Completed the last 2 freeCodeCamp Basic Algorithm Challenges and further reading on the MDN JavaScript section.
+
+**Notes:** Finally finished the last 2 challenges so I can check that off the list. Maybe further into these 100 days I will maybe continue with the Intermediate challenges. I do like them but they mostly only cover JavaScript core language features. The thing that I like about the MDN documentation is that the cover a bit more practical use cases in the Browser.
+
+As a side note, I started using [Toggl](https://toggl.com/) for tracking my Time. Before I just set a quick timer inside Google but with Toggl I can track the time a bit more in-depth and see at what times of the day I spent time on this challenge.
+
+**Results:** You can see the contributions on my [freeCodeCamp account](https://www.freecodecamp.org/dandevri). The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Building Blocks Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
+* [MDN - Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+* [MDN - Looping Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+
+**Time:** 1h 02m 43s
+
