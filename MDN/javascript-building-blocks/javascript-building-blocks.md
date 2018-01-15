@@ -108,4 +108,68 @@ Some functions don't return a significant value after completion.
 Generally, a return value is used where the function is an intermediate step in a calculation of some kind. You want to get to a final result, which involves some values. 
 
 ## Introduction to events
+> Events are actions or occurrences that happen in the system you are programming.
 
+Events are fired inside the browser window. Most of the time attaches to a specific item.
+
+*  Each event has an event handler. (user-defined function)
+* Registering an event handler. (Sometimes called event listeners)
+
+> The listener listens out for the event happening, and the handler is the code that is run in response to it happening.
+
+Events are not particular to JavaScript, most programming language have some kind of event model. The event model in JavaScript for web pages differs from the event model for JavaScript as it is used in other environments.
+
+**Event handler properties**
+Event handler property, a property like any other available on elements.
+
+You might be wondering why we haven't included the parentheses after the function name. This is because we don't want to call the function immediately — only after the button has been clicked.
+
+**Inline event handlers**
+Don't use these. Event handler HTML attribute. Bad practice, they become unmanageable. It mixes up HTML and JavaScript.
+
+**AddEventListener**
+Newest type of event mechanism. (DOM Level 2 Events) Similar way to th eevent handler properties syntax.
+
+Specify two parameters:
+* Name of the event
+* Code from the handler function
+
+This allows you to have the same button performing different actions in different circumstances.
+
+* Event handler properties have less power and options but better cross browser.
+* DOM Level 2 Events are more powerful but can also become more comples. You can also add multiple event handlers.
+
+**Other event concepts**  
+Event object; automatically passed to event handlers to provide extra features and information. Event object is always a reference tot he element that the event has occurred upon.
+
+`e.target` is useful when you want to set the same event handler on multiple elements.
+
+Some more advanced handlers contain extra data.
+
+**Preventing default behavior** 
+Sometimes you want to stop an event doing what it does by default. (Web form example)
+
+preventDefault function on the event object, stops form submission.
+
+**Event bubbling and capture**  
+Two handlers of the same event type are activated on one element.
+
+When an event is fired on an element that has parent elements; capturing phase and the bubbling phase.
+
+**Capturing phase**  
+* Browser checks to see if the element (outer-most html) has an onclick event handler.
+* Then it moves on to the next element inside html.
+
+**Bubbling phase**  
+* Checks to see if the element that was actually clicked on has an event handler.
+* Moves to the next immediate ancestor element. Until it reaches the HTML
+
+Modern browsers register using the bubbling phase.
+* First finds inner then outer.
+
+You can fix it by using stopPropagation. So the event doesn't bubble up.
+
+**Event delegation**
+Bubbling allows us to take advantage of event delegation. Set event on parent and have effect bubble to each child.
+
+*Event listener on ul bubbles to list items*
