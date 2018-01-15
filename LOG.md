@@ -209,3 +209,18 @@ As a side note, I started using [Toggl](https://toggl.com/) for tracking my Time
 
 **Time:** 1h 02m 43s
 
+### Day 14: 14.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Same as yesterday and probably the same for the upcoming days, reading through the MDN documentation and typing along with all the code examples. By not just reading it but also writing and doing the examples you have a much more hands-on experience and I feel like I can remember more.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Looping Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+* [MDN - Reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+* [MDN - Build your own function](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
+* [MDN - Function return values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
+
+**Time:** 1h 02m 10s
