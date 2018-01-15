@@ -224,3 +224,17 @@ As a side note, I started using [Toggl](https://toggl.com/) for tracking my Time
 * [MDN - Function return values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
 
 **Time:** 1h 02m 10s
+
+### Day 15: 15.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Finished the Building Blocks section and now on to the JavaScript objects section. Read the events documentation twice, some very useful in-depth stuff about events that's nice to know by default.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Function return values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
+* [MDN - Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+
+**Time:** 1h 05m 33s
