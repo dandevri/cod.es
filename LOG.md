@@ -240,3 +240,24 @@ Ermargherd, lost my streak 🙃 Note to self; commit before 00:00.
 * [MDN - Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 **Time:** 1h 05m 33s
+
+### Day 16: 16.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Started with the JavaScript objects section. The theory is a little more intense then all the previous stuff but the explanation feels so clear. These are things you are gonna use very often when you OOP. So I really want to take the time and go over this section pretty slowly, even reading some sections twice. 
+
+Finally understanding a bit more about objects and how they are created. It's one of those things I just started using but not really knowing the basics of it.
+
+* Namespacing / Encapsulated
+* Constructor Functions
+* Object Literals
+* Object instances
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [MDN - Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+
+**Time:** 1h 06m 56s
