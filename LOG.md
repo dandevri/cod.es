@@ -231,6 +231,8 @@ As a side note, I started using [Toggl](https://toggl.com/) for tracking my Time
 
 **Notes:** Finished the Building Blocks section and now on to the JavaScript objects section. Read the events documentation twice, some very useful in-depth stuff about events that's nice to know by default.
 
+Ermargherd, lost my streak 🙃 Note to self; commit before 00:00.
+
 **Results:** The notes and examples from the MDN resources are pushed to this repo.
 
 **Resources:** 
