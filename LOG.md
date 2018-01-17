@@ -261,3 +261,21 @@ Finally understanding a bit more about objects and how they are created. It's on
 * [MDN - Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 
 **Time:** 1h 06m 56s
+
+### Day 17: 17.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** These last sections are 🤯  On a positive note I finally understand some under the hood objects stuff.
+* Prototype chain
+* Prototype objects
+* Constructor property
+
+It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt to read through these sections again
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+
+**Time:** 1h 02m 41s
