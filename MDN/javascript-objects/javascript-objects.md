@@ -32,7 +32,7 @@ Message passing; objects communicatie with eachother.
 
 ## Object-oriented JavaScript
 
-OOP (Object-oriented programming) use objects to modeal real worls things. 
+OOP (Object-oriented programming) use objects to modal real worls things. 
 
 > Object data (and often, functions too) can be stored neatly (the official word is encapsulated) inside an object package (which can be given a specific name to refer to, which is sometimes called a namespace), making it easy to structure and access; objects are also commonly used as data stores that can be easily sent across the network.
 
@@ -54,3 +54,32 @@ Creating objects:
 * Constructor function
 * object() constructor
 * create() method
+
+## Object prototypes
+Prototypes are the mechanism by which JavaScript objects inherit features one another, it's not the same as inheritance in other object-oriented programming languages.
+
+JavaScript is often described as a prototype-based language. 
+
+**Each object has a prototype object, which acts as a template object that inherits methods and properties from.
+
+ Prototype Chain; different objects have properties and methods defined on other objects available to them.
+
+Properties and methods are defined on the prototype property on the objects constructor function, not the object instance themselves. 
+
+**In JS a link is made.** They don't copie over properties and methods defined on the class.
+
+Prototype object = template object. 
+
+Methods and properties are not copied from one object to another, they are accessed by walking up the chain.
+
+> prototype property is one of the most confusingly-named parts of JavaScript — you might think that this points to the prototype object of the current object, but it doesn't (that's an internal object that can be accessed by __proto__, remember?). prototype instead is a property containing an object on which you define members that you want to be inherited.
+
+Every constructor functions has an object containing a constructor property. Points to the original constructor.
+
+Adding methods to the prototype are then available on all object instances created from the constructor.
+
+> In our code we define the constructor, then we create an instance object from the constructor, then we add a new method to the constructor's prototype:
+
+.this will be referencing global scape not the function scope.
+
+Define properties inside the constructor and the methods on the prototype.

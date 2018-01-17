@@ -41,7 +41,20 @@ function Person(name) {
     }
 }
 
+
 var person3 = new Person('Bob');
 var person4 = new Person('Sarah');
 
 console.log(person3.name);
+
+
+function Person(first) {
+    this.name = first
+}
+
+var person5 = new Person('Peter');
+console.log(person5);
+
+Person.prototype.farewell = function () {
+    alert(this.name.first + ' has left the building. Bye for now!');
+};
