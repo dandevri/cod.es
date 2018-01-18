@@ -60,6 +60,8 @@ Prototypes are the mechanism by which JavaScript objects inherit features one an
 
 JavaScript is often described as a prototype-based language. 
 
+Distinction between object's prototype and the prototype property on constructor functions. The former is the property on each instance, and the latter is the property on the constructor. 
+
 **Each object has a prototype object, which acts as a template object that inherits methods and properties from.
 
  Prototype Chain; different objects have properties and methods defined on other objects available to them.
@@ -83,3 +85,19 @@ Adding methods to the prototype are then available on all object instances creat
 .this will be referencing global scape not the function scope.
 
 Define properties inside the constructor and the methods on the prototype.
+
+## Inheritance in JavaScript
+
+Prototype chains works and how members are inherited going up a chain. Mostly this has involved built-in browser functions. Functionality inherited through the prototype chain. It's called prototypal inheritance.
+
+**Object member summary**:
+1. Defined inside a constructor function that are given to object instances. Are the members only available to object instances.
+2. Defined directly on the constructor themselves. Available on built-in browser objects. Chained directly onto a constructor, not an instance.
+3. Defined on a constructor's prototype which are inherited by all instances.
+
+**When would you use inheritance in JavaScript?**
+Prototypes and inheritance represent some of the most complex aspects of JavaScript. But it's also pretty powerful and flexible.
+
+> the sharing of functionality between objects is often called delegation.
+
+Ultimately, objects are just another form of code reuse, like functions or loops, with their own specific roles and advantages. If you only need a single instance of an object, then you are probably better off just using an object literal, and you certainly don't need inheritance.
