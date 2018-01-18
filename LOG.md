@@ -279,3 +279,21 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 
 **Time:** 1h 02m 41s
+
+### Day 18: 18.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Read through the first sections of the objects theory to get those down. Then read more about inheritance in JavaScript. As stated in the documentation what I referred to yesterday.
+
+> Prototypes and inheritance represent some of the most complex aspects of JavaScript, but a lot of JavaScript's power and flexibility comes from its object structure and inheritance, and it is worth understanding how it works.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+* [MDN - Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+* [MDN - Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [MDN - Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance )
+
+**Time:** 1h 02m 14s
