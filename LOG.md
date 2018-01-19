@@ -297,3 +297,22 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance )
 
 **Time:** 1h 02m 14s
+
+### Day 19: 19.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Pretty straightforward; reading back some of the object sections and started with the JSON one. Almost done with the whole Object section and then move onto the Web API's. That's the last section on MDN that focusses on JavaScript.
+
+* JSON is basically a string and you need to convert it to a JS object.
+* Resembles JavaScript object literal syntax.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Object Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+* [MDN - Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [MDN - Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+* [MDN - Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+**Time:** 1h 03m 46s
