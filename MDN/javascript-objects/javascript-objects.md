@@ -101,3 +101,22 @@ Prototypes and inheritance represent some of the most complex aspects of JavaScr
 > the sharing of functionality between objects is often called delegation.
 
 Ultimately, objects are just another form of code reuse, like functions or loops, with their own specific roles and advantages. If you only need a single instance of an object, then you are probably better off just using an object literal, and you certainly don't need inheritance.
+
+## Working with JSON
+
+JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax.
+
+> It can be used independently from JavaScript, and many programming environments feature the ability to read (parse) and generate JSON.
+
+JSON exists as a string, needs to be converted to a native JavaScript object when you want to access the data. JS provides a global JSON object that has methods available for converting between the two. This is called parsing. Other way around is called stringification.
+
+**JSON structure**
+You can include the same basic data types inside JSON as you can in a standard JavaScript object.
+
+An array is also valid JSON.
+
+**Notes**
+* JSON is a data format, only contains properties.
+* Requires double quotes
+
+To obtain JSON, use an API called XMLHttpRequest (XHR) Make network requests to retrieve resources from a server via JavaScript.
