@@ -316,3 +316,22 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Working with JSON data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 **Time:** 1h 03m 46s
+
+### Day 20: 20.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Noticing that in the weekend and the last couple of days I am getting distracted too often. Because I am reading the same type of documentation for the last week it's just reading and sometime examples. Don't feel the same focus that I had the first week. 
+
+* Basic canvas visualisation with objects
+* What APIs are and how they work
+* Types of APIs 
+* Relationship other JS tooling
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Object Building Practice](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice)
+* [MDN - Introdution to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+
+**Time:** 1h 04m 15s
