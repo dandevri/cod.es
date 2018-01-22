@@ -11,15 +11,11 @@ function updateDisplay(verse) {
     verse = verse.toLowerCase();
     var url = verse + '.txt';
 
-    var request = new XMLHttpRequest();
-    request.open('GET', url);
-    request.responseType = 'text';
-
-    request.onload = function() {
-        poemDisplay.textcontent = request.response;
-    }
-
-    request.send();
+    fetch(url).then(function(response) {
+        return response.text()
+        }) .then(function(text) {
+        poemDisplay.textContent = text;
+    }) 
 }
 updateDisplay('Verse 1');
 verseChoose.value = 'Verse 1';

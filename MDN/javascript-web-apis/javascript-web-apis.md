@@ -96,3 +96,53 @@ Some sites also store assets and data on the user's computer when they are first
 
 ### Basic Ajax request
 Asynchronous operation, you've got to wait for the operation to complete.
+
+The Fetch api is basically a modern replacement for XHR. Itwas introduced in browsers recently to make asynchronous HTTP request easier to do in JavaScript.
+
+**Fetch**
+* Invoke the fetch method, passing the url of the resource
+* Promises are used for performing asynchronous operations.
+* .then() to run some follow-up code after the promise resolves, 
+
+Most of the newer JavaScript APIs are heavily based on promises. Resolves means finish perform the specified operation. 
+
+The code passed into then is a won't run immediately, it will run at some point in the future when the response has been returned.
+
+You can directly chain multiple promise blocks (then blocks) onto the end of one another, passing the result of each block to the next block as you travel down the chain.
+
+**Which should you use?**
+XHR has been around for a long time and has good cross-browser support. Fetch and Promises are a more recent additions to the web platform.
+
+## Third party APIs
+Provide API's to make use of their data.
+
+### What are third party APIs?
+Allow acces to third party company functionality via JavaScript to use on your own site.
+
+Browser APIs are built in to the browser, you can acces them from JavaScript immediately.
+
+Thid party APIs are located on third party server. To access them from JavaScript you first need to connect to the API functionality and make it available in your page. Typically linking to the library on the server.
+
+Security for browser APIs tends to be handled by permission prompts, the user knows what is going on the the websites they visit. Third party APIs 
+tend to use key codes. (developer key)
+
+**RESTful API**
+Instead of getting data using the features of a JavaScript library we get data by making HTTP request to specific URLs.
+
+### An approach for using third party APIs
+
+*Find the documentation; it's essential to find out where the documentation is, so you can find out what features the API has.
+* Get a developer key
+* Connect the API to your app; This is usually done either by connecting to the API's JavaScript (as we did in the Google Maps API), or by making requests to the correct URL(s). Construct the REST url.
+* Requesting data from the API; Make a request
+* Display the data;
+
+## Drawing graphics
+The browser contains some very powerful graphics programming tools.
+
+### Graphics on the web
+Image element, background image and SVG. We could animate SVG trough css and javascript there was stilll no way to do the same for images.
+
+Situation started to improve when browsers began to support the canvas element and canvas api.
+
+Around 2006-2007 Mozilla started work on 3D canvas implementation. This became WebGL.
