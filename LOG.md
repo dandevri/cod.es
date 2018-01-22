@@ -335,3 +335,18 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Introdution to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
 
 **Time:** 1h 04m 15s
+
+### Day 21: 21.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Introdution to Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+* [MDN - Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+* [MDN - Fetching data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+
+
+
+**Time:** 1h 04m 15s
