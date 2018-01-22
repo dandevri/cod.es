@@ -347,6 +347,21 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
 * [MDN - Fetching data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
+**Time:** 1h 06m 01s
 
+### Day 22: 22.01.2018  
 
-**Time:** 1h 04m 15s
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** When it's a bit late at night I tend to not write any notes. 
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+* [MDN - Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+* [MDN - Fetching data](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+* [MDN - Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+
+*Added wrong date to commit*
+
+**Time:** 1h 05m 47s
