@@ -146,3 +146,31 @@ Image element, background image and SVG. We could animate SVG trough css and jav
 Situation started to improve when browsers began to support the canvas element and canvas api.
 
 Around 2006-2007 Mozilla started work on 3D canvas implementation. This became WebGL.
+
+You can chain multiple assignments together, handy if you want to set multiple variables to the same value.
+
+### 2d canvas basics
+If you want to draw anything more complex than a rectangle, you need to draw a path.
+
+* Rect
+* Arc (circles)
+* Paths
+* Text
+* Images
+
+
+### Loops and animations
+You wont't experience the full power of convas unless you update or animate it in some way.
+
+There are a few JavaScript functions that allow you to run functions repeatedly, several times a seclond.
+
+The next time the browser is ready to update the screen, your function will get called.
+
+On each frame we clear the canvas and redraw everything. Once you've drawn a graphic to a canvas, there's no way to manipulate that graphic individually like you can with DOM elements.
+
+### WebGL
+3D canvas content is specified using the WebGL API, which is a completely separate API from the 2D canvas API, even though they both render onto <canvas> elements.
+
+> WebGL is based on the OpenGL graphics programming language, and allows you to communicate directly with the computer's GPU. As such, writing raw WebGL is closer to low level languages such as C++ than regular JavaScript; it is quite complex but incredibly powerful.
+
+Because of its complexity, most peoplw write 3d graphics using a third party JavaScript library. They handle the WebGL for you, letting you work on a higher level.
