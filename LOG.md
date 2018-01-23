@@ -365,3 +365,19 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 *Added wrong date to commit*
 
 **Time:** 1h 05m 47s
+
+
+### Day 23: 22.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** The MDN learning section is slowly coming to an end. Probably in a couple of days I will have read all the sections. Maybe it's a good idea to think about the next learning section. As stated before it's probably a good idea to do the ES6 course to learn new syntax and then move onto the JavaScript 30 exercises.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+
+* [MDN - Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+* [MDN - Drawing Graphics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
+
+**Time:** 1h 03m 52s
