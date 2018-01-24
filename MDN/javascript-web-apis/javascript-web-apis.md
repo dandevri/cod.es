@@ -174,3 +174,35 @@ On each frame we clear the canvas and redraw everything. Once you've drawn a gra
 > WebGL is based on the OpenGL graphics programming language, and allows you to communicate directly with the computer's GPU. As such, writing raw WebGL is closer to low level languages such as C++ than regular JavaScript; it is quite complex but incredibly powerful.
 
 Because of its complexity, most peoplw write 3d graphics using a third party JavaScript library. They handle the WebGL for you, letting you work on a higher level.
+
+## Video and audio APIs
+
+HTML5 comes with elements for embedding rich media in documents. 
+
+Video and Audio elements allow to embed video and audio into web pages. One big issue with the native browser controls is that they are different in each browser, not very good for cross-browser support. Most of the time native controls aren't very keyboard-accessible.
+
+HTMLMediaElement API provides features to allow control video and audio.
+
+No labels inside buttons, use aria-labels for the control buttons.
+
+First hide the custom controls and show the native. If the JavaScript doesn't load for some reason, users can still use the video with the native controls.
+
+Icon fonts can be very handy for many reasons. Cutting down on HTTP requests because you don't need to download those icons as image files, great scalability, and the fact that you can use text properties to style them.
+
+classList is a rather handy property that exists on every element, it contains a lost of all the classes set on the element.
+
+## Client-side storage
+Modern web browsers support a number of ways for web sites to store data on the user's computer.
+
+There is a limit to the amount of data you can store using client-side storage APIs.
+
+**Old school**
+Cookies; number of problems, botch techncical and user experience-wise. EU Cookie directive. there are more modern ways to store a wider variety of data on the user's computer.
+
+**Web Storage and IndexedDB**
+* Web storage api; simple syntax for storing and retrieving smaller data items. Moslty consisting of a name and a corresponding value.
+* IndexedDB API; Complete database system for storing complex data.
+
+### Storing simple data
+* sessionStorage; As long as the browser is open
+* localStorage; Persists data even after the browser is closed.
