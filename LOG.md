@@ -367,7 +367,7 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 **Time:** 1h 05m 47s
 
 
-### Day 23: 22.01.2018  
+### Day 23: 23.01.2018  
 
 **Progress**: Further reading MDN Learn Web Development.
 
@@ -381,3 +381,18 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Drawing Graphics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics)
 
 **Time:** 1h 03m 52s
+
+### Day 24: 24.01.2018  
+
+**Progress**: Further reading MDN Learn Web Development.
+
+**Notes:** Last couple of days I had to really fit in this challenge since I was aways most of the day, it was pretty tough but still managed to code during those days. It's really nice to split the time, half of it in the morning and half of it at night. Really feel like I'm more focussed if I code a bit earlier in the night.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+
+* [MDN - Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+* [MDN - Client-side Storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+
+**Time:** 1h 04m 30s
