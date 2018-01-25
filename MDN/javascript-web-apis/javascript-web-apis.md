@@ -194,6 +194,8 @@ classList is a rather handy property that exists on every element, it contains a
 ## Client-side storage
 Modern web browsers support a number of ways for web sites to store data on the user's computer.
 
+Client-side storage works on similar principles, but has different uses. It consists of JavaScript APIs that allow you to store data on the client (i.e. on the user's machine) and then retrieve it when needed.
+
 There is a limit to the amount of data you can store using client-side storage APIs.
 
 **Old school**
@@ -206,3 +208,31 @@ Cookies; number of problems, botch techncical and user experience-wise. EU Cooki
 ### Storing simple data
 * sessionStorage; As long as the browser is open
 * localStorage; Persists data even after the browser is closed.
+
+One key feature of web storage is that the data persists between page loads (and even when the browser is shut down, in the case of localStorage).
+
+There is a separate data store for each domain.
+
+The indexedDB (IDB) is a complete database system available in the browser. This does come at a cost,it's complexer to use than the Web Storage API.
+
+Database operations take time. Operations are asyncronous, not immediately but will happen at some point in the future.
+
+onupdateneeded; this handler runs if the database has not already been set up, or if the database is opened with a bigger version number.
+
+As we mentioned above, IndexedDB can be used to store more than just simple text strings. You can store just about anything you want, including complex objects such as video or image blobs.
+
+### Offline asset storage
+If you want to store HTMl, CSS and JS files you can use Service Workers and the closely-related Cache API.
+
+> A service worker is a JavaScript file that is registered against a particular origin when it is accessed by a browser. When registered, it can control pages available at that origin. Sitting between a loaded page and the network requests.
+
+When it intercepts a request, it can do anything you wish to it (see use case ideas), but the classic example is saving the network responses offline and then providing those in response to a request instead of the responses from the network
+
+The Cache API is a another client-side storage mechanism, with a bit of a difference — it is designed to save HTTP responses, and so works very well with service workers.
+
+#### Service workers
+Register a service worker contained in the sw.js file against the origin.
+
+You'll see that the install listener is registered against self. This self keyword is a way to refer to the global scope of the service worker from inside the service worker file.
+
+We add another listener to the service worker global scope, which runs the handler function when the fetch event is raised. This happens whenever the browser makes a request for an asset in the directory the service worker is registered against.
