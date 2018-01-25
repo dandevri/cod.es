@@ -396,3 +396,17 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Client-side Storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 
 **Time:** 1h 04m 30s
+
+### Day 25: 25.01.2018  
+
+**Progress**: Finished the whole MDN Learn Web Development JavaScript sections.
+
+**Notes:** The last one about client-side storage was a bit rough. Nice to grasp some of the concepts but maybe a bit out of scope for my personal taste. There are alot more JavaScript resources and basic topics that I want to learn but I think it's a nice change of pace to start with the ES6 course from Wes Bos. So I understand some modern new syntax and how to use it. Then I can always go back to a bit more basic resources after that.
+
+**Results:** The notes and examples from the MDN resources are pushed to this repo.
+
+**Resources:** 
+
+* [MDN - Client-side Storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
+
+**Time:** 1h 06m 48s
