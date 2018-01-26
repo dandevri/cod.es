@@ -410,3 +410,19 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 * [MDN - Client-side Storage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
 
 **Time:** 1h 06m 48s
+
+### Day 26: 26.01.2018  
+
+**Progress**: Started with the ES6 Course from Wes Bos and completed the first module.
+
+**Notes:** Nice to start with some video tutorials a couple weeks in, most of the resources i've been reading where text based. I feel like with video tutorials I can do more of it without losing focus. Sometimes with reading after 45 / 50 min I feel a bit sluggish, with video's it isn't like that at all.
+
+It's also because of Wes Bos his style, nice and quick paced and you can easily follow it while taking notes. I've made a new seperate repository for the course.
+
+**Results:** Pushed the note and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 03m 42s
