@@ -426,3 +426,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 03m 42s
+
+### Day 27: 27.01.2018  
+
+**Progress**: Completed the second module (arrow functions) from the ES6 course.
+
+**Notes:** Long and nice sprint. (almost double the one hour minimum) Nice and easy day this weekend so I could spend some more time. Same as before; really like to do video tutorials and Wes explanations are really good. That ofcourse contributes to the time spent on learning.
+
+**Results:** Pushed the note and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 40m 52s
