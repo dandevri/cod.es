@@ -419,7 +419,7 @@ It's worth nothing that some of the stuff is still a bit vague, it doesn't hurt 
 
 It's also because of Wes Bos his style, nice and quick paced and you can easily follow it while taking notes. I've made a new seperate repository for the course.
 
-**Results:** Pushed the note and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
 
 **Resources:** 
 
@@ -433,10 +433,22 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 
 **Notes:** Long and nice sprint. (almost double the one hour minimum) Nice and easy day this weekend so I could spend some more time. Same as before; really like to do video tutorials and Wes explanations are really good. That ofcourse contributes to the time spent on learning.
 
-**Results:** Pushed the note and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
 
 **Resources:** 
 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 40m 52s
+
+### Day 28: 28.01.2018  
+
+**Progress**: Completed the third module (template literals) from the ES6 course.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 07m 02s
