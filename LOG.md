@@ -452,3 +452,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 07m 02s
+
+### Day 29: 29.01.2018  
+
+**Progress:** Completed the fourth and fifth module from the ES6 course.
+
+**Notes:** Destructuring seems really useful when using objects and data that get returned from an API. You can easily target and assign values.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 01m 30s
