@@ -466,3 +466,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 01m 30s
+
+### Day 30: 30.01.2018  
+
+**Progress:** Completed the sixth and seventh module from the ES6 course.
+
+**Notes:** 77 video's seemed pretty long but if you do a couple of video's every day (complete one or two modules in the hour) then it goes pretty fast. Even halway through the video's right now, didn't expect that. I quickly try to read my notes back from the previous section but I still get that I can't remember all of it. It's nice to know that a functionality exists but the syntax can be a little funky.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 03m 02s
