@@ -480,3 +480,20 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 03m 02s
+
+### Day 31: 31.01.2018  
+
+**Progress:** Completed the 8th and 9th module from the ES6 course.
+
+**Notes:** Already one month in, doing pretty good so far. Some of the things I notice so far:
+* Getting more comfortable writing JS
+* Writing more consice and readable code
+* You don't learn everything by just watching one JS course. You have to keep up, write code and try to learn new concepts all the time.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 05m 54s
