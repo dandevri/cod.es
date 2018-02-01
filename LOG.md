@@ -497,3 +497,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 05m 54s
+
+### Day 32: 32.01.2018  
+
+**Progress:** Completed the 10th and 11th module from the ES6 course.
+
+**Notes:** Same as states yesterday, with a course you get to know general concepts but you also need to make examples and apply them. Find use cases for them and just use them during projects. Next up are some interesting chapters about eslint and npm tooling.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 02m 34s
