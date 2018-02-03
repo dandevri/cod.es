@@ -525,3 +525,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 00m 10s
+
+### Day 34: 03.02.2018  
+
+**Progress:** Completed the 13th module from the ES6 course.
+
+**Notes:** This and the last section were really good, nice little sidestep form straight up learning new syntax but also some context and 'actually' building something.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 05m 06s
