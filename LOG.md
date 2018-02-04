@@ -539,3 +539,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 05m 06s
+
+### Day 35: 04.02.2018  
+
+**Progress:** Completed the 14th module from the ES6 course.
+
+**Notes:** So far it's going pretty great if I think about it. It's pretty mind blown how many you can learn (even in 35 days) if you just take 1 hour each day. Being consistent is the most important thing.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 01m 39s
