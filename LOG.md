@@ -553,3 +553,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 01m 39s
+
+### Day 36: 05.02.2018  
+
+**Progress:** Finished module 15 and 16 of the ES6 Course.
+
+**Notes:** Maybe it's also nice to just put the time logs from Toggl into this repo.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 09m 39s
