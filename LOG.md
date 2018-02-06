@@ -567,3 +567,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 09m 39s
+
+### Day 37: 06.02.2018  
+
+**Progress:** Finished module 17 and 18 and 19 of the ES6 Course.
+
+**Notes:** Onto the last two sections, these one are pretty new and Wes recorded them not so long ago. They go a bit more in-depth into Async Await and ES7+
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 00m 38s
