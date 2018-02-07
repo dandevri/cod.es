@@ -581,3 +581,17 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 00m 38s
+
+### Day 38: 07.02.2018  
+
+**Progress:** Started module 20 from the ES6 course.
+
+**Notes:** Some pretty long video's with stuff to wrap your hear around. These features make your code very clean but it's a bit less verbose. So less lines but a bit harder to read.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
+* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 00m 25s
