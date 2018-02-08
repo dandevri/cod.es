@@ -582,11 +582,11 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 
 **Time:** 1h 00m 38s
 
-### Day 38: 07.02.2018  
+### Day 39: 08.02.2018  
 
-**Progress:** Started module 20 from the ES6 course.
+**Progress:** Finished the ES6 for Everyone course 🎉
 
-**Notes:** Some pretty long video's with stuff to wrap your hear around. These features make your code very clean but it's a bit less verbose. So less lines but a bit harder to read.
+**Notes:** Finished the course faster than I expected tbh. The main takeaway is; a course is nice to get to know features and new syntax. But to really get the hang of it you just have to code and use it on the daily. It's good to know features exist and for specific syntax you can always look it up, you don't have to remember everything.
 
 **Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
 
@@ -594,4 +594,4 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
-**Time:** 1h 00m 25s
+**Time:** 1h 10m 13s
