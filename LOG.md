@@ -595,3 +595,16 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos ES6 for everyone](https://es6.io/)
 
 **Time:** 1h 10m 13s
+
+### Day 40: 09.02.2018  
+
+**Progress:** Started with the JavaScript 30 exercises.
+
+**Notes:** Video's are nice paced, in an hour I can complete two full exercises. Don't really focus on the styling, only the necessary CSS to complete the exercise. These exercises are really fun to work on, it's not that you just do syntax but you also learn problem solving and work towards goal.
+
+**Results:** Made a new repo for the JavaScript 30 exercises. Pushed the notes and examples to the [JavaScript 30 Repo](https://github.com/dandevri/javascript30
+**Resources:** 
+
+* [Wes Bos - JavaScript 30](https://javascript30.com/)
+
+**Time:** 1h 10m 02s
