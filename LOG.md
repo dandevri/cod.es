@@ -643,3 +643,14 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos - JavaScript 30](https://javascript30.com/)
 
 **Time:** 1h 11m 42s
+
+### Day 44: 13.02.2018  
+
+**Progress:** Finished exercise 11,12 and 13 from JavaScript 30.
+
+**Results:** Pushed the notes and examples to the [JavaScript 30 Repo](https://github.com/dandevri/javascript30)
+
+**Resources:** 
+* [Wes Bos - JavaScript 30](https://javascript30.com/)
+
+**Time:** 1h 03m 17s
