@@ -654,3 +654,16 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos - JavaScript 30](https://javascript30.com/)
 
 **Time:** 1h 03m 17s
+
+### Day 45: 14.02.2018  
+
+**Progress:** Finished exercise 14 and 15 from JavaScript 30.
+
+**Notes:** Noticing that when I do a code along with one of the exercises I start to typing while the video is playing instead of first watching and then typing on my own. The second is better because you then take a second to actually process what you are typing. Trying to do this more durint the rest of the challenge.
+
+**Results:** Pushed the notes and examples to the [JavaScript 30 Repo](https://github.com/dandevri/javascript30)
+
+**Resources:** 
+* [Wes Bos - JavaScript 30](https://javascript30.com/)
+
+**Time:** 1h 08m 39s
