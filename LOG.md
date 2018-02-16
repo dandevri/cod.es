@@ -680,3 +680,16 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos - JavaScript 30](https://javascript30.com/)
 
 **Time:** 1h 00m 49s
+
+### Day 47: 16.02.2018  
+
+**Progress:** Finished exercise 19, and 20 from JavaScript 30.
+
+**Notes:** Speech recognition is 🔥
+
+**Results:** Pushed the notes and examples to the [JavaScript 30 Repo](https://github.com/dandevri/javascript30)
+
+**Resources:** 
+* [Wes Bos - JavaScript 30](https://javascript30.com/)
+
+**Time:** 1h 10m 21s
