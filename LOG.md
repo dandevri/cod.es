@@ -717,3 +717,16 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos - JavaScript 30](https://javascript30.com/)
 
 **Time:** 1h 14m 21s
+
+### Day 50: 19.02.2018  
+
+**Progress:** Finished exercise 27, 28 and 29 from JavaScript 30.
+
+**Notes:** Halfway 🎉 If you told me I would have done al these resoureces and only halfway trough the challenge I wouldn't have believed you.
+
+**Results:** Pushed the notes and examples to the [JavaScript 30 Repo](https://github.com/dandevri/javascript30)
+
+**Resources:** 
+* [Wes Bos - JavaScript 30](https://javascript30.com/)
+
+**Time:** 1h 09m 33s
