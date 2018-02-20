@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    var stringOne = 'This is a sentence';
+    var stringTwo = 'This is another sentence';
+
+    //charAt()
+    console.log(stringOne.charAt(1)); // letter in position
+
+    //charCodeAt()
+    console.log(stringOne.charCodeAt(1)); // unicode character
+
+    //concat()
+    console.log(stringOne.concat(stringTwo));
+
+    //endsWith()
+    console.log(stringOne.endsWith('ce'));
+
+    //fromCharCode()
+    console.log(String.fromCharCode(114));
+
+    //includes()
+    console.log(stringTwo.includes('a')); //contains string of character
+
+    //indexOf()
+    console.log(stringOne.indexOf('sentence'));
+
+    //lastIndexOf()
+    console.log(stringOne.lastIndexOf('sentence'));
+
+    //match()
+    console.log(stringTwo.match(/ence/g)); // match regexp
+
+    //repeat()
+    console.log(stringOne.repeat(2));
+
+    //replace()
+    console.log(stringTwo.replace(/ence/g, 'ENCE'));
+
+    //search()
+    console.log(stringTwo.search('ence'));
+
+    //slice()
+    console.log(stringOne.slice(2,4)); // extract part of a string and return new one
+
+    //split()
+    console.log(stringOne.split(' ')) // split into array
+
+    //startsWith()
+    console.log(stringOne.startsWith('This'));
+
+    //substr() // kinda like slice
+    console.log(stringOne.substr(2, 4));
+
+    //substring() // similar
+    console.log(stringOne.substring(2, 4));
+
+    //toLowerCase
+    console.log(stringOne.toLowerCase);
+
+    //toUpperCase
+    console.log(stringOne.toUpperCase);
+
+    //trim() // remove whitespace from string
+    var stringThree = '    pieter';
+    console.log(stringThree.trim());
+
+
+  </script>
+</body>
+</html>
