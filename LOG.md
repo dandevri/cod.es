@@ -730,3 +730,18 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 * [Wes Bos - JavaScript 30](https://javascript30.com/)
 
 **Time:** 1h 09m 33s
+
+### Day 51: 20.02.2018  
+
+**Progress:** Finished the last exercise from JavaScript 30 and started with Beau Teaches JavaScript.
+
+**Notes:** Not quite sure what to say anymore, halfway and already completed most of the courses and resources that I wanted to do. Never expected that I would do all those resources by just spending an hour a day. Still haven't missed a single day and once you get into the flow it just becomes a habit.
+
+With all the new syntax and examples thaught it was nice to spend a couple of days refreshing the core principles. So I can just quickly go through these basic video's again and think about what resource to do next.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+
+**Time:** 1h 11m 32s
