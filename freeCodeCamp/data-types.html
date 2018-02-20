@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    // boolean
+    var data = true;
+
+    // null - means no value but still is a type
+    var n = null;
+    console.log(n * 32);
+
+    // undefined - variable has not been declared or has no value
+    var a;
+    console.log(a + 2); // NaN not a number
+
+    // Number
+    var num = 3.6;
+    console.log(num);
+
+    // string
+    var name = 'Danny';
+    console.log('Hi ' + name)
+
+    // Symbol since ES6
+    var sym1 = Symbol('foo');
+    var sym2 = Symbol('foo');
+    console.log(sym1 === sym2);
+    console.log(String(sym1 === sym2));
+    
+    // Object collection of properties
+    // Propertie is a name / key and value
+    var myCar = new Object();
+    myCar.make = 'Ford';
+    myCar.model = 'Ford';
+
+    console.log(myCar.make);
+  </script>
+</body>
+</html>
