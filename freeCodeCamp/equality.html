@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Abstract equality vs strict */
+    // Abstract will resolve data types
+    console.log(3 == '3');
+    console.log(3 === '3'); // converted to number before comparison is made 
+
+    console.log(true == '1');
+    console.log(true === '1');
+
+    console.log('This is a string' == new String('This is a string'));
+    console.log('This is a string' === new String('This is a string')); // string literals are different then string objects
+
+    /* Best practice is to use strict equality. */
+    /* If you do need to check, always try to convert it. It makes your code more explicit */
+  </script>
+</body>
+</html>
