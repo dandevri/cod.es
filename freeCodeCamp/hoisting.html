@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Function declarations and variable declarations are processed before code is executed */
+    // variable definitions are not hoisted to the top 
+    console.log(definedLater);
+    var definedLater; // this is hoisted
+    definedLater = 'Hello';  // this is not
+    console.log(definedLater)
+
+    console.log(definedSim);
+    var definedSim = 'Hello World'; // definition not hoisted to top
+    console.log(definedSim);
+
+    doSomething();
+    function doSomething() { // this function is hoisted
+      console.log('It ran')
+    }
+
+    functionVar();
+    var functionVar = function() { // variable will be to hoisted 
+      console.log('This one ran'); // assignment of the function will happen later
+    }
+  </script>
+</body>
+</html>

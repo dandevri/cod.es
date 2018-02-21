@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Set of statements that performs a task */
+
+    // Function declaration / definition
+    function square(number) { // Parameters placeholders
+      return number * number; // statements inside curly brackets
+    }
+
+    console.log(square(4));
+
+    /* Scope - Visibility of variables */
+    var someVar = 'hat'; // global scope
+    function myFun() {
+      var someVar = 'shoes'; // local variable takes presence
+      console.log(someVar);
+    }
+
+    myFun();
+    console.log(someVar);
+
+    /* Nesting functions - nested function is private inside function */
+    // the inner function forms a closure
+    // the inner function can use the arguments from the outer function but not the other way around
+
+    /* function declaration is hoisted - brought up to top */
+    // You can call functions before they are defined
+
+  </script>
+</body>
+</html>
