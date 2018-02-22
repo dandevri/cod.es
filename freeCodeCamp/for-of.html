@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Loop trough object */
+    // for of will loop trough values
+    // for in will looop trough names
+
+    const person = { // person is not iterable
+      'name': 'Danny',
+      'age': 12,
+      'arms': 2
+    }
+
+    let text = '';
+    for(let x in person) {
+      text += person[x]; // add property value
+    }
+
+    const arr = [3, 5, 7];
+    
+    for(let i in array) {
+      console.log(i); // returns index
+    }
+
+    for(let i of array) {
+      console.log(i);
+    }
+    
+  </script>
+</body>
+</html>

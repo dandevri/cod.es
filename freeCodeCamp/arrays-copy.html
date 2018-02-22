@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Copy or clone array */
+    var original = ['1', '2', '3', true];
+
+    var copy1 = original.slice(0);
+
+    // spread operator
+    var copy2 = [...original]; // spreads out original array wherever we put it
+
+    // deep copying when you have nested array
+    var deepArray = [['Danny']];
+    // anytime you have this, the original array is just a pointer. We can't copy.
+
+    var deepCopy = JSON.parse(JSON.stringify(deepArray)); // convert string back to json or arraya
+    /* Difference between shallow and deep copy */
+  </script>
+</body>
+</html>

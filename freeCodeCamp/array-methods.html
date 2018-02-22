@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    var arr = ['a', 'b', 'c'];
+
+    // add new item to array
+    arr.push('d');
+
+    // remove last element
+    arr.pop();
+
+    //concat two arrays
+    var arr2 = ['d', 'e'];
+    arr.concat(arr2) // does not effect original array
+
+    // joing elements to a string
+    arr.join('');
+
+    // reverse element in array
+    arr.reverse(); // does change the original array
+
+    //shift return first element
+    arr.shift();
+
+    // unshift adds new element to array and return link
+    arr.unshift();
+
+    // select part of array
+    arr.slice(1,3) // start and end does not change original array
+
+    // sort an array
+    arr.sort(arr);
+
+    // splice similar than slice and modifies array
+    arr.splice(2, 3) // count from starting point
+
+    console.log(arr)
+  </script>
+</body>
+</html>

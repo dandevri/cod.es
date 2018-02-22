@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    // Iterate;  go over an array and do something with each item */
+    var arr = [1, 2, 3];
+    
+    //forEach
+    arr.forEach(item => console.log(item));
+
+    //map - takes item does something and return new array
+    console.log(arr.map(item => item * 2));
+
+    //filter - check each item against condition. If it true it puts item back in arr.j
+    console.log(arr.filter(item => item % 2 === 0))
+
+    // reduce
+    console.log(arr.reduce(item => console.log('reduce')));
+
+    // some - check if item in the array any item meets condition
+    console.log(arr.some(item => item < 0))
+
+    // every -- every number needs to meet conditioin
+    console.log(arr.every(item => item > 0));
+
+    // find - checks condition and returns the item
+    console.log(arr.find(item => item === 4));
+
+    // findIndex -- checks for index doesn't return item but index
+    console.log(arr.findIndex(item => item === 3));
+  </script>
+</body>
+</html>
