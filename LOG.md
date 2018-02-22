@@ -756,3 +756,14 @@ With all the new syntax and examples thaught it was nice to spend a couple of da
 * [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 
 **Time:** 1h 01m 17s
+
+### Day 53: 22.02.2018  
+
+**Progress:** Finished around 10 videos from Beau Teaches JavaScript.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+
+**Time:** 1h 01m 13s
