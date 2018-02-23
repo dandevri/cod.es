@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* timing events are part of the window events */
+    setTimeout(bye, 3000);
+
+    function bye() {
+      console.log('Goodbye');
+    }
+
+
+    var count = 0;
+    var int = setInterval(counter, 1000);
+
+    function counter() {
+      console.log(++count);
+    }
+  </script>
+</body>
+</html>

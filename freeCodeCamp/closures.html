@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Environment of where the function was declared variables inside scope */
+    // All functions in JavaScript form closures
+
+    function makeFunc() {
+      var name = "JS Nuggets";
+      function displayName() { // function has access to any variable that's within the scope
+        console.log(name);
+      }
+      return displayName;
+    }
+
+    var myFunc = makeFunc();
+    myFunc();
+
+    /* Private versus public methods with return anonymous function */
+  </script>
+</body>
+</html>

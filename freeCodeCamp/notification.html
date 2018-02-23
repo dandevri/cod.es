@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Notifications that are showed outside the window from the system */
+    Notification.requestPermission()
+      .then(result => {
+        alert(result);
+      })
+    
+    new Notification('Notification!');
+  </script>
+</body>
+</html>

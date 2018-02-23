@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Date constructor helps with parsing and displaying dates */
+
+    // current date
+    var d1 = new Date();
+    console.log(d1.toString());
+
+    // specific date
+    var d2 = new Date(2017, 1, 3, 42, 43, 23, 23)
+    console.log(d2);
+
+    // milliseconds
+    var d3 = new Date(864000)
+    console.log(d3);
+
+    var d4 = new Date('October 13')
+    console.log(d4);
+
+    // get date information
+    console.log(d1.getDate());
+
+    var start = new Date();
+    doSomething();
+    var end = new Date();
+    var elapsed = end.getTime() - start.getTime();
+    console.log(elapsed);
+    
+    function doSomething() {
+      for(var i = 0; i < 100000; i++) {
+
+    }
+  </script>
+</body>
+</html>

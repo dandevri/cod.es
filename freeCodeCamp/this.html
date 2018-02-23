@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Object that owns the JS code - value of this inside function */
+
+    // Global this is the window
+    console.log(this.document);
+
+    // Inside function
+    function f1() {
+      'use strict' // executed inside
+      return this;
+    }
+
+    console.log(f1());
+
+    /* .bind the context of this */
+    /* With arrow function this is bound to enclosing scope during creation */
+
+  </script>
+</body>
+</html>
