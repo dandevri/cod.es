@@ -767,3 +767,16 @@ With all the new syntax and examples thaught it was nice to spend a couple of da
 * [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 
 **Time:** 1h 01m 13s
+
+### Day 54: 23.02.2018  
+
+**Progress:** Finished the last 13 videos from Beau Teaches JavaScript.
+
+**Notes:** Figuring out what resource to do next. Leaning towards the Kyle Simpson 'You don't know JS' books. Everybody seems to really like them. Or I can do a bit more freeCodeCamp video's before moving on to those books.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+
+**Time:** 1h 28m 36s
