@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    var myCar = new Object();
+    myCar.make = 'Ford'; // Dot notation
+    myCar.model = 'Mustang';
+    myCar.color;
+
+    myCar['year'] // bracket notation
+
+    // Create object; initializer
+    var myBike = { // object literal
+      color: 'red',
+      wheels: 2
+    }
+
+    // Create object; construction function
+    function Car(make, modal, year) { // object type
+      this.make = make;
+      this.model = model;
+      this.year = year;
+    }
+
+    new Car('ford', 'mustang', 2000) // create new instance
+
+    // Create object; Object.create
+    var Animal = {
+      type: 'brates',
+      displayType: function() { // method
+        console.log(this.type);
+      }
+    }
+
+    var animal1 = Object.create(Animal);
+    animal1.displayType();
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+    <h1>AJAX with JavaScript!</h1>
+    <p id="demo">Let AJAX change this text</p> 
+    <button type="button" onclick="loadDoc()">Change Content</button>
+  <script>
+    /* Ajax = Asynchronous JavaScript And XML */
+    // Update parts of the site without reloading 
+
+    function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+     document.getElementById("demo").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "http://carnes.cc/code/ajax_example.txt", true);
+  xhttp.send();
+}
+  </script>
+</body>
+</html>

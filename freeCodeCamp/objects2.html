@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    // Objects for lookups
+    var alpha = {
+      1: 'A',
+      2: { 1: 'B', 2: 'C'},
+      3: 'C'
+    }
+    console.log(alpha[2]);
+
+    // Remove properties
+    delete alpha[1];
+    console.log(alpha);
+
+    // Testing objects for properties
+    console.log(alpha.hasOwnProperty(3));
+
+    // Modify nested keys
+    // Object properties can be nested to any depth
+    console.log(alpha[2][1])
+
+    // Generate an Array
+    console.log(Object.keys(alpha));
+  </script>
+</body>
+</html>

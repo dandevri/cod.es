@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* JSON - Syntax for storing and sending data */
+    // JSON values cannot be a function or undefined main difference between JS objectsk
+    var myJSON = {
+    "name": {
+        "first": "Beau",
+        "last": "Carnes"
+    },
+    "age":33,
+    "skills": [ "juggling", "stiltwalking", "coding" ],
+    "married": true,
+    "superpowers": null
+ }
+
+  var stringify = JSON.stringify(myJSON); // convert to string
+  console.log(stringify);
+
+  var parse = JSON.parse(stringify); // string converted to object
+  console.log(parse);
+  </script>
+</body>
+</html>
