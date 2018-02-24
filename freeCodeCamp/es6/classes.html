@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* blueprint to create objects with clearer syntax */
+
+    // Class declaration
+    class Person {
+      constructor(name, year) {
+        this.name = name;
+        this.year = year;
+      }
+
+      get age() { // get property without parentheses
+        return this.calcAge();
+      }
+    }
+
+  // Class expression
+    var Person2 = class {
+
+    }
+
+    var me = new Person('danny', 20);
+
+    /* static methods are often used to create utility functions */
+    /* Extends to create a child of a class */
+    // you can then extend functions and properties. Add them to specific class
+    // Using the super keyword you can inherit from the parent again
+  </script>
+</body>
+</html>

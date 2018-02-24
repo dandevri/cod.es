@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* Template literals - string literals allow embed expressions */
+    
+    //multi-line
+    console.log(`another string
+    and stuff`)
+
+    // expression interpolation
+    var a = 5;
+    var b = 10;
+
+    console.log('Numbers ${2 * a, b}');
+
+    // tagged template literal
+    function tag(strings, ...values) { // array
+      console.log(strings);
+      console.log(values);
+
+      return 'stuff';
+    }
+
+    tag(`Hello ${a, b} world`); // takes out string and values as expression
+  </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    // const values that never change
+    const pi = 3.14; // can't assign to const variable
+
+     // block level variables
+     for(let i = 0; i < 5; i++) {
+       console.log(i);
+     }
+     
+     // var to entire function or program
+     for(var j = 0; j < 5; j++) {
+       console.log(j);
+     }
+
+     console.log(j); // it leaks out
+  </script>
+</body>
+</html>
