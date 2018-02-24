@@ -780,3 +780,18 @@ With all the new syntax and examples thaught it was nice to spend a couple of da
 * [Beau Teaches JavaScript](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 
 **Time:** 1h 28m 36s
+
+### Day 55: 24.02.2018  
+
+**Progress:** Finished the 10 ES6 FCC Beau Teaches JavaScript videos.
+
+**Notes:** I understand that these video's are free and give a brief overview of ES6 (as basic JavaScript features) but compared to the Wes Bos course these video's are not at the same level as Wes Bos. These are to 'syntaxy / techy' and don't give any practice clear examples. It's very hard to translate them to useful teaching material. tbh; I don't really learn any useful stuff from them.
+
+So, I'm going to do the DOM playlist to try it one more time and then move on to the Kyle Simpson books.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Beau Teaches JavaScript ES6](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
+
+**Time:** 1h 07m 34s
