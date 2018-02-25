@@ -795,3 +795,16 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [Beau Teaches JavaScript ES6](https://www.youtube.com/watch?v=1mgLWu69ijU&list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F)
 
 **Time:** 1h 07m 34s
+
+### Day 55: 24.02.2018  
+
+**Progress:** Finished the 11 ES6 DOM Beau Teaches JavaScript videos.
+
+**Notes:** These video's were a bit more verbose but pretty redundant, most of the stuff I already know. Think it's time to move on to some new topics and read the books talked about in earlier logs.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Beau Teaches JavaScript DOM](https://www.youtube.com/watch?v=eaLKqoB9Fu0&index=1&list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
+
+**Time:** 1h 03m 57s
