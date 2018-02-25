@@ -796,7 +796,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 07m 34s
 
-### Day 55: 24.02.2018  
+### Day 55: 25.02.2018  
 
 **Progress:** Finished the 11 ES6 DOM Beau Teaches JavaScript videos.
 
