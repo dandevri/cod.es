@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* You can set css styles after selectirng it */
+
+    var line = document.getElementById('line');
+    line.style.color = 'red'; // sets inline styles
+
+    // cssText - removes inline styles
+    line.style.cssText = 'color: blue; border: 1px solid red';
+
+    // set attribute - 
+    line.setAttribute('style', 'color: red; background: blue;')
+
+    /* When you work with style only shows inline not external css sheet */
+    console.log(line.style); // check what styles are on an element
+
+    console.log(window.getComputedStyle(line)) // get styles even from external css
+  </script>
+</body>
+</html>

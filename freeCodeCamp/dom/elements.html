@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  <script>
+    /* With javaScript you can manipulate the DOM of a website */
+    var div1 = document.getElementById('div1'); // element with specific ID
+    var unicycle = document.getElementsByClassName('unicycle') // all elements with class
+    var unicycle = div1.getElementsByClassName('unicycle') // only within the specific div not document
+    var p = document.getElementsByTagName('p') // all elements by tag
+
+    var thing = document.querySelector('.unicycle'); // query selector can pass in one or more css selectors
+    var queryAll = document.querySelectorAll('.unicycle') // doesn't return an array but nodelist
+
+    var text = '<h1>Hello World</h1>';
+    div1.innerHTML = text;
+
+    /* Don't use innerHTML for security reasons, use textcontent */
+
+  </script>
+</body>
+</html>

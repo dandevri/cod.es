@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>freeCodeCamp</title>
+</head>
+<body>
+  
+  <script>
+    /* window object - globals become members from window. Even document. */
+    // each tab contains a window object
+
+    window.addEventListener('resize', update);
+var x = window.document.getElementById("demo");
+update();
+
+function update() {
+  x.innerHTML = "Browser inner window width: " + 
+    window.innerWidth + ", height: " + window.innerHeight + ".";
+}
+  </script>
+</body>
+</html>
