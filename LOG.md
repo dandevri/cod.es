@@ -808,3 +808,16 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [Beau Teaches JavaScript DOM](https://www.youtube.com/watch?v=eaLKqoB9Fu0&index=1&list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO)
 
 **Time:** 1h 03m 57s
+
+### Day 56: 26.02.2018  
+
+**Progress:** Read about 3/4 of the first You Don't Know JS book.
+
+**Notes:** Started with the You Don't Know JS books from Kyle Simpson. The first chapter is a nice refresher but most of the is already clear to me, it nice to get the terminology into my head.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Up & Going | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+
+**Time:** 1h 06m 41s
