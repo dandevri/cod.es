@@ -821,3 +821,18 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - Up & Going | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 
 **Time:** 1h 06m 41s
+
+### Day 57: 27.02.2018  
+
+**Progress:** Completed the first chapter and started with the second chapter of You Don't Know JS Up & Goingbook.
+
+**Notes:** Reading trough these books takes me some more time, I ocassionaly read a chapter again to review or read a section a second time. I only move on to another section if I feel comfortable with the concept and can repeat the terminology.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Up & Going | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+
+* [You Don't Know JS - Up & Going | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+
+**Time:** 1h 13m 17s
