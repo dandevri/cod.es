@@ -33,7 +33,7 @@ JS is interpreted, processed each time it's run. But that's not entirely accurat
 console.log in this case. Log is a function of the console object.
 
 ### Input
-Most common way is to let HTMl show elements that the user can put values in, with JS you then read those.
+Most common way is to let HTML show elements that the user can put values in, with JS you then read those.
 
 ## Operators
 Perform actions on values and variables. `=` is for assignment. First calculate the value on the right side and then put it in the variable on the left-side. You should always declare the variable by name before you use it. Declare a variable within a specific scope.
@@ -45,7 +45,7 @@ Values that are included directly in the source code are called literals.
 
 ### Converting between types
 Conversion is called 'coercion.' You need to 'coerce' a value.
-* explicit coercion; buit-in function to convert
+* explicit coercion; buil`t-in function to convert
 * implicit coercion; compare values that are not of the same type
 * loose comparison, strict comparison.
 * implicit coercion can create confusion in your code.
@@ -69,3 +69,38 @@ Constants also prevent accidentally changing value somewhere else after the init
 
 ## Blocks
 In code we often need to group statements together. We call it a block. Typically, blocks are attached to some other control statement. A block statement does not need a semicolon (;) to conclude it.
+
+## Conditionals
+You need to first consult the current state of your wallet. You can use conditionals for that. Most common is if statement.
+
+If statement requires an expression between the parentheses. Values that aren't already of an expected type are often coerced to that type. 
+
+> The if statement expects a boolean, but if you pass it something that's not already boolean, coercion will occur.
+
+In JS some values are 'falsy' (0 or '') any other value is automatically 'truthy'.
+
+## Loops
+Repeating something only while the conditional holds. Each time the loop executes, it's called an iteration.
+
+While do; The only practical difference between these loops is whether the conditional is tested before the first iteration (while) or after the first iteration (do..while).
+
+The conditional is tested on each iteration, much as if there is an implied if statement inside the loop. Use break statement to stop a loop.
+
+* If you are to do counting with loop iterations, the for loop is the most compact way.
+* There are specialized loop forms that are intended to iterate over specific values.
+
+## Functions
+Break up the program into reusable pieces. You can define a function. A function can be called by name and the code will run each time.
+
+* Functions take arguments (parameters)
+* Parameter is placeholer value
+
+Functions are often used for code that you plan to call multiple times, but they can also be useful just to organize related bits of code into named collections, even if you only plan to call them once.
+
+### Scope
+Scope (lexical scope); each function get it's own scope. Scope is basically a collection of variables as well as the rules for how those variables are accessed by name. Only code inside that function can access that function's scoped variables. A variable name has to be unique within the same scope -- there can't be two different a variables sitting right next to each other. But the same variable name a could appear in different scopes.
+
+> Lexical scope rules say that code in one scope can access variables of either that scope or any scope outside of it.
+
+## Review
+Finally, don't neglect the power of practice. The best way to learn how to write code is to write code.
