@@ -45,7 +45,7 @@ Values that are included directly in the source code are called literals.
 
 ### Converting between types
 Conversion is called 'coercion.' You need to 'coerce' a value.
-* explicit coercion; buil`t-in function to convert
+* explicit coercion; built-in function to convert
 * implicit coercion; compare values that are not of the same type
 * loose comparison, strict comparison.
 * implicit coercion can create confusion in your code.
