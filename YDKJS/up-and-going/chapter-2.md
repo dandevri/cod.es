@@ -63,3 +63,77 @@ Variables are only available to lower/inner scopes. If you try to access a varia
 In addition to creating declarations for variables at the function level ES6 lets you declare variables to belong to individual blocks (pairs of { .. }), using the let keyword. Block scoping is very useful for managing your variable scopes in a more fine-grained fashion, which can make your code much easier to maintain over time. Block scoped instead of function scoped.
 
 ## Conditionals
+* If else if
+* Switch statement
+* Ternary; it uses clauses
+
+## Strict Mode
+ES5 added stricct mode to the language. Generally, these restrictions are seen as keeping the code to a safer and more appropriate set of guidelines. Strict mode is a big win for code, and you should use it for all your programs.
+
+If you turn on strict mode in your code, and you get errors, or code starts behaving buggy, your temptation might be to avoid strict mode. But that instinct would be a bad idea to indulge
+
+## Functions as values
+Named functions are basically just a variable in the outer enclosing scope. The function itself is a value.
+
+> Not only can you pass a value (argument) to a function, but a function itself can be a value that's assigned to variables, or passed to or returned from other functions.
+
+* Anonymous function has no name
+* Named function and can be assigned to variable
+
+### iffe
+Functions that's is immediately invoked.
+
+### Closure
+Often least understood concept of JavaScript. It will be one of the most important techniques in your JS skillset.
+
+> You can think of closure as a way to "remember" and continue to access a function's scope (its variables) even once the function has finished running.
+
+Nested function has closure over outer variables.
+
+You can call function references if they are stored in variables.
+
+#### Modules
+The most common usage of closure in JavaScript is the module pattern. Modules let you define private implementation details (variables, functions) that are hidden from the outside world, as well as a public API that is accessible from the outside.
+
+## this identifier
+This is another very misunderstood concept in JS.
+
+> If a function has a this reference inside it, that this reference usually points to an object. But which object it points to depends on how the function was called.
+
+*This does not refer to the function itself. foo() ends up setting this to the global object in non-strict mode*
+
+Bottom line: to understand what this points to, you have to examine how the function in question was called.
+
+## Prototypes
+Prototype mechanism is quite complicated.
+
+When you reference a property on an object, if that property doesn't exist, JavaScript will automatically use that object's internal prototype reference to find another object to look for the property on.
+
+ The most common way this feature is used -- and I would argue, abused -- is to try to emulate/fake a "class" mechanism with "inheritance."
+
+ But a more natural way of applying prototypes is a pattern called "behavior delegation," where you intentionally design your linked objects to be able to delegate from one to the other for parts of the needed behavior.
+
+ ## Old & New
+There are two main techniques you can use to "bring" the newer JavaScript stuff to the older browsers: polyfilling and transpiling.
+
+### Polyfilling
+> Taking the definition of a newer feature and producing a piece of code that's equivalent to the behavior, but is able to run in older JS environments.
+
+### Transpiling
+There's no way to polyfill new syntax that has been added to the language. The new syntax would throw an error in the old JS engine as unrecognized/invalid.
+
+> So the better option is to use a tool that converts your newer code into older code equivalents. This process is commonly called "transpiling," a term for transforming + compiling.
+
+Essentially, your source code is authored in the new syntax form, but what you deploy to the browser is the transpiled code in old syntax form
+
+Why transpiling?
+* The new syntax added to the language is designed to make your code more readable and maintainable.
+* If you transpile only for older browsers, but serve the new syntax to the newest browsers, you get to take advantage of browser performance optimizations with the new syntax.
+* Using the new syntax earlier allows it to be tested more robustly in the real world
+
+The last important detail to emphasize about transpilers is that they should now be thought of as a standard part of the JS development ecosystem and process. JS is going to continue to evolve, much more quickly than before, so every few months new syntax and new features will be added.
+
+## Non-JavaScript
+The reality is that most JS is written to run in and interact with environments like browsers. A good chunk of the stuff that you write in your code is, strictly speaking, not directly controlled by JavaScript.
+
+For example the document variable. It's not provided by the JS engine.  It's a special object, often called a "host object."
