@@ -832,7 +832,22 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Resources:** 
 * [You Don't Know JS - Up & Going | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
-
 * [You Don't Know JS - Up & Going | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
 
 **Time:** 1h 13m 17s
+
+### Day 58: 28.02.2018  
+
+**Progress:** Finished You Don't Know JS Up & Going book (Chapter 2 and 3).
+
+**Notes:** Nice introduction and refresher of some core JS concepts. Read some sections twice to fully grasp them. Now time to move take a deep dive into these concepts. These books are probably going to take some time to read since I want to work trough them slowly. This was a pretty nice quote;
+
+> No person's opinion, no framework's assumptions, and no project's deadline should be the excuse for why you never learn and deeply understand JavaScript.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Up & Going | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md)
+* [You Don't Know JS - Up & Going | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch3.md)
+
+**Time:** 1h 03m 18s
