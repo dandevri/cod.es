@@ -851,3 +851,16 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - Up & Going | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch3.md)
 
 **Time:** 1h 03m 18s
+
+### Day 59: 01.03.2018  
+
+**Progress:** Started with the second book; Scope & Closures
+
+**Notes:** Wasn far from focussed today. Reviewed a bit of the first book and then started with the second book in the train. Couldn't get my head together. Reading this book requires some effort so maybe it's better to do it in the morning or just split it up into small focussed parts. The first book was a nice overview but now I notice we are getting pretty deep and in-depth.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Scopes & Closures | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md)
+
+**Time:** 1h 06m 31s
