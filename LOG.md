@@ -876,3 +876,15 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - Scopes & Closures | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
 
 **Time:** 1h 03m 52s
+
+### Day 61: 03.03.2018  
+
+**Progress:** Finished the third and fourth chapter of Scopes & Closures
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Scopes & Closures | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
+* [You Don't Know JS - Scopes & Closures | Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
+
+**Time:** 1h 02m 10s
