@@ -888,3 +888,17 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - Scopes & Closures | Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
 
 **Time:** 1h 02m 10s
+
+### Day 62: 04.03.2018  
+
+**Progress:** Finished the Scopes and Closures Book.
+
+**Notes:** This book was quite intens overall, some concepts aren't still very clear to me. Thinking about reviewing the book again, skim trough it and then move on to the next one.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Scopes & Closures | Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
+* [You Don't Know JS - Scopes & Closures | Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
+
+**Time:** 1h 02m 2s
