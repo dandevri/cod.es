@@ -902,3 +902,20 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - Scopes & Closures | Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
 
 **Time:** 1h 02m 2s
+
+### Day 63: 05.03.2018  
+
+**Progress:** Reviewed the Scopes and Closures Book.
+
+**Notes:** Chapter 5 is still a bit vague, the other chapters are pretty clear after a thorough review today. Maybe let closures rest for a bit and come back to it after reading the other books.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - Scopes & Closures | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch1.md)
+* [You Don't Know JS - Scopes & Closures | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md)
+* [You Don't Know JS - Scopes & Closures | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md)
+* [You Don't Know JS - Scopes & Closures | Chapter 4](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
+* [You Don't Know JS - Scopes & Closures | Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
+
+**Time:** 1h 07m 40s
