@@ -919,3 +919,17 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - Scopes & Closures | Chapter 5](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
 
 **Time:** 1h 07m 40s
+
+### Day 64: 06.03.2018  
+
+**Progress:** Read the appendix of Scopes and Closures Book and started with the this & Object Prototypes book.
+
+**Notes:** Saw that Kyle Simpson released another [JS book](https://github.com/getify/Functional-Light-JS) looks like a nice read aswell.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - this & Object Prototypes | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
+* [You Don't Know JS - this & Object Prototypes | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
+
+**Time:** 1h 03m 58s
