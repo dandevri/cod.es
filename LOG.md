@@ -933,3 +933,17 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - this & Object Prototypes | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
 
 **Time:** 1h 03m 58s
+
+### Day 65: 07.03.2018  
+
+**Progress:** Finished the second chapter and reviewed the first one
+
+**Notes:** Wasn't really that focussed today so I read pretty slow and didn't make that much progress.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - this & Object Prototypes | Chapter 1](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
+* [You Don't Know JS - this & Object Prototypes | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
+
+**Time:** 1h 01m 30s
