@@ -947,3 +947,20 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 * [You Don't Know JS - this & Object Prototypes | Chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch1.md)
 
 **Time:** 1h 01m 30s
+
+### Day 66: 08.03.2018  
+
+**Progress:** Finished the third chapter of the 'this & Object Prototypes book'.
+
+**Notes:** The first books I could get trough, they sometimes were pretty verbose but I still got some valuable nuggets out of them. After some review I could get by. But now, by reading the third book, I feel like i'm getting into deep water. I don't understand most of the concepts even after reviewing them and I feel like they are a bit to technical.
+
+Maybe it's a good idea to quit reading for now and start doing some more video tutorials back again. Reading all the books after eachother might not be the best idea. I do want to read all of them but maybe inbetween video courses or with some time between them.
+
+Nice change of pase to review some ES6 syntax and do a little refresher.
+
+**Results:** The notes and examples from the book are pushed to this repo.
+
+**Resources:** 
+* [You Don't Know JS - this & Object Prototypes | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md)
+
+**Time:** 1h 02m 14s
