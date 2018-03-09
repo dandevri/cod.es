@@ -964,3 +964,16 @@ Nice change of pase to review some ES6 syntax and do a little refresher.
 * [You Don't Know JS - this & Object Prototypes | Chapter 3](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch3.md)
 
 **Time:** 1h 02m 14s
+
+### Day 67: 09.03.2018  
+
+**Progress:** Finished the third chapter of the 'this & Object Prototypes book'.
+
+**Notes:** Nice change of pace to do some video tutorials. I do really like the fun and fluffy presentation style of Daniel in the video's. Maybe some of the explanations aren't that technical but most of the video's are aimed to beginners. So it's a nice refresher of some concepts but they are not really that in-depth.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Topics of ES6](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+
+**Time:** 1h 06m 43s
