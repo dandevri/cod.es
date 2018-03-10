@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Code Trian</title>
+</head>
+<body>
+  <script>
+    function sing(callback) {
+      console.log('la la la');
+      callback();
+    }
+
+    function meow() {
+      console.log('meow meow')
+    }
+
+    function multiplier(x, factor) {
+      return x * factor;
+    }
+
+    function multiply(factor) {
+      return function(x) { // returns a new function
+        return x * factor;  // this is a closure
+      }
+    }
+
+    function multiply(factor) {
+      return x => x * factor;
+      }  
+
+    let doubler = multiplier(2);
+
+  </script>
+</body>
+</html>

@@ -33,3 +33,21 @@ Callback function remembers the correct context with arrow functions.
 for of loop
 
 You often use a for loop with the length of the array. With for of you iteratie over everything in the index.
+
+## 16.5
+Higher order function. Object-oriented programming is very common in other language environments. But there is also functional programming in the JavaScript community.
+
+Higher order function is a function that has levels of function. (as a callback or returns fucntion) For example higher order functions for arrays.
+
+* Put function as argument it's called a callback
+* or return a function (function factory)
+
+## 16.6
+Not all methods are higher order functions. Push for example, it doesn't take another function as argument.
+
+* map; pass a function that is applied to every element of the array
+
+Most of these higher order functions return a new array. Doesn't change the original array.
+
+## 16.7
+Idea of reduce; you give it something that persist over time and act over it.
