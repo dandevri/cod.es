@@ -59,3 +59,25 @@ You can also filter out 'falsy' values. (such as undefined)
 
 ## 16.9
 Sort filters the original array. It doesn't create a new array. JS only knows some default sort function. If you want to sort something yourself, you need to write your own compare function.
+
+## 16.10
+*Skipped*
+
+## 6.2
+Object oriented programming with classes. Functional programming are mostly based on functions, which are the core part of JavaScript.
+Each part is a seperate object and you want to create multiple of it. You make your code resuable.
+
+* Encapsulation; data and functionality into an object
+* Class / template / blueprint; new block of code that is encapsulated.
+
+`new` keyword creates the object. 
+
+* class is cookiecutter
+* object itself is a instance
+
+The new keyword calls a function but it's a special kind of function. It's a function to construct an object. Every class needs a constructor. It's the setup.
+
+This keyword is a reference to the current object. You don't have to specify the funnction keyword inside class.
+
+## 6.3
+You want to give arguments to the created instance.
