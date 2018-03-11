@@ -51,3 +51,11 @@ Most of these higher order functions return a new array. Doesn't change the orig
 
 ## 16.7
 Idea of reduce; you give it something that persist over time and act over it.
+
+## 16.8
+Filter gets a function as argument. That callback function recieves each value of the area. If it's true it will keep it.
+
+You can also filter out 'falsy' values. (such as undefined)
+
+## 16.9
+Sort filters the original array. It doesn't create a new array. JS only knows some default sort function. If you want to sort something yourself, you need to write your own compare function.
