@@ -1001,3 +1001,18 @@ Nice change of pase to review some ES6 syntax and do a little refresher.
 * [Topics of ES6](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 
 **Time:** 1h 09m 04s
+
+### Day 70: 12.03.2018  
+
+**Progress:** Started watching some more video's from Daniel Shiffman.
+
+**Notes:** Cherry-picking the JavaScript video's that are about JavaScript topics I could get a refresher on. On the channel there are alot of playlist but only some are focussed on the topics I want to learn. So I'm not doing a whole playlist but only watch the video's with interesing topics.
+
+When I'm finished I want to start watching some video's by mpj (fun fun function). Alot of people recommend them aswell.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Foundations of Programming in JavaScript](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)  
+
+**Time:** 1h 02m 14s
