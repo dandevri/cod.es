@@ -25,3 +25,27 @@ Flow of a program over time. A browser session happens over time, functions kind
 * Function; Once (onload)
 * Function; loops and draws (loop)
 * Function; event (waits)
+
+## 2.2 - Declare variables
+* Declare the variable
+* Initialize the variable
+* Use the variable
+
+Assigment operation; assign a value to a variable.
+
+Right hand is always evaluated and then assigned to the left side.k
+
+## 2.3 - Object literal
+Variables that 'go together'. Object literals.
+
+## 3.1 - Conditional statements
+Boolean expressions; how does a program make decisions? Boolean indicates true or false. (0, 1)
+
+A conditional statements expects a boolean expression. Often use relational operator. Variable is often part of the expression. Then the expression changes all the time.
+
+## 3.3 - Else and Else If
+Order of expressions matter. As soonn if one of the expression is true the program ignores all other and go to next lines of code.
+
+There is a difference by using else if intead of just chaining if statements. They are distinct so if they are true all of them occur. It doesn't skip.
+
+With and / or you can basically join two expression together. Create an intersection for example.
