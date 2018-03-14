@@ -49,3 +49,23 @@ Order of expressions matter. As soonn if one of the expression is true the progr
 There is a difference by using else if intead of just chaining if statements. They are distinct so if they are true all of them occur. It doesn't skip.
 
 With and / or you can basically join two expression together. Create an intersection for example.
+
+## 3.4 - Boolean Variables
+booleans are data types. not false is equal to true.
+
+## 4.1 - While and for loops
+Repeat loop, essential control structure. Conditional statement is also a control structure.
+
+What's the exit condition? The while loops is a nice translation from if but it needs more lines and 3 elements. The 3 elements of a while loops condens them with a for loop.
+
+## 4.2 - Nested Loops
+The window is not updated until the end of the loop is reached. Not to animate something. For each cycle (flipbook idea)
+
+Nested loops (think about x and y) for every x make a list of y's.
+
+## 5.1 - Function basics
+Key principles of using funtions.
+* Modularity
+* Reusability
+
+With functions you can organise your program, modular pieces.
