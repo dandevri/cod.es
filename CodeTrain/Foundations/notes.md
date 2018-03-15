@@ -69,3 +69,20 @@ Key principles of using funtions.
 * Reusability
 
 With functions you can organise your program, modular pieces.
+
+## 5.2 - Function parameters
+parameters; placeholder variables. They are local to the functionn. arguments; are the actual values passed in when it's called.
+
+## 5.3 - Function and return
+When a function finishes executing it can return a value to you. You can store it in a variable for example. Some function don't evaluate. (they don't return)
+
+## 6.1 - Object-Oriented
+-
+
+## 7.1 - Array
+Array is a list of values. Arrays and object both are collections but they are differennt. (index based and keys) With an array the elements are in order. Arrays are index based. The variable holds the whole array. The index (in square brackets) can be random. With a 'for' loop for example.
+
+## 7.2 - Array and Loops
+Pretty nifty use case of alo using the variable i for index and multiplying the value of it.
+
+## 7.3 - Arrays of Objects
