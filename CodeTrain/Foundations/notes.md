@@ -86,3 +86,16 @@ Array is a list of values. Arrays and object both are collections but they are d
 Pretty nifty use case of alo using the variable i for index and multiplying the value of it.
 
 ## 7.3 - Arrays of Objects
+-
+
+## 16.4 - For of loop
+It happens very often with loops, you want to code trough the whole array.
+
+## 7.4 - Mouse Interactions
+-
+
+## 7.5 - Remove objects
+With pop / shfit etc. you always delete something at the beginning of the end of the array. You can use splice to modify the existing array. From array, check the array backwards.
+
+## 7.6 - Object communication
+-

@@ -1049,3 +1049,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Foundations of Programming in JavaScript](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)  
 
 **Time:** 1h 01m 12s
+
+### Day 74: 16.03.2018  
+
+**Progress:** Continued watching video's about JavaScript foundations from Daniel Shiffman.
+
+**Notes:** Almost finished the foundations video's. Going to watch some more video's from Daniel Shiffman from the Dom and then move on to some Fun Fun Functionn onnes.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Foundations of Programming in JavaScript](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)  
+
+**Time:** 1h 01m 23s
