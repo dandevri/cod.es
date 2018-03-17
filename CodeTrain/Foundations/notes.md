@@ -99,3 +99,9 @@ With pop / shfit etc. you always delete something at the beginning of the end of
 
 ## 7.6 - Object communication
 -
+
+## 7.7 - Object communication 2
+-
+
+## 7.8 - Object images
+-
