@@ -1062,3 +1062,17 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Foundations of Programming in JavaScript](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)  
 
 **Time:** 1h 01m 23s
+
+### Day 76: 17.03.2018  
+
+**Progress:** Continued watching video's about JavaScript foundations from Daniel Shiffman and started with the video's about the DOM.
+
+**Notes:** Finished the foundations and going to watch the last playlist (for now) from Daniel about interacting with the DOM.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Foundations of Programming in JavaScript](https://www.youtube.com/watch?v=8j0UDiN7my4&index=1&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)  
+* [HTML / CSS / DOM](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX&index=1)  
+
+**Time:** 1h 02m 55s
