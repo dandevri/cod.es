@@ -1089,3 +1089,14 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [HTML / CSS / DOM](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX&index=1)  
 
 **Time:** 1h 00m 46s
+
+### Day 78: 19.03.2018  
+
+**Progress:** Continued watching video's about the DOM from Daniel Shiffman.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [HTML / CSS / DOM](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX&index=1)  
+
+**Time:** 1h 07m 47s
