@@ -796,7 +796,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 07m 34s
 
-### Day 55: 25.02.2018  
+### Day 56: 25.02.2018  
 
 **Progress:** Finished the 11 ES6 DOM Beau Teaches JavaScript videos.
 
@@ -809,7 +809,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 03m 57s
 
-### Day 56: 26.02.2018  
+### Day 57: 26.02.2018  
 
 **Progress:** Read about 3/4 of the first You Don't Know JS book.
 
@@ -822,7 +822,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 06m 41s
 
-### Day 57: 27.02.2018  
+### Day 58: 27.02.2018  
 
 **Progress:** Completed the first chapter and started with the second chapter of You Don't Know JS Up & Goingbook.
 
@@ -836,7 +836,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 13m 17s
 
-### Day 58: 28.02.2018  
+### Day 59: 28.02.2018  
 
 **Progress:** Finished You Don't Know JS Up & Going book (Chapter 2 and 3).
 
@@ -852,7 +852,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 03m 18s
 
-### Day 59: 01.03.2018  
+### Day 60: 01.03.2018  
 
 **Progress:** Started with the second book; Scope & Closures
 
@@ -865,7 +865,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 06m 31s
 
-### Day 60: 02.03.2018  
+### Day 61: 02.03.2018  
 
 **Progress:** Started with the second book; Scope & Closures. Finished the first and second chapter. Started with the third.
 
@@ -877,7 +877,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 03m 52s
 
-### Day 61: 03.03.2018  
+### Day 62: 03.03.2018  
 
 **Progress:** Finished the third and fourth chapter of Scopes & Closures
 
@@ -889,7 +889,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 02m 10s
 
-### Day 62: 04.03.2018  
+### Day 63: 04.03.2018  
 
 **Progress:** Finished the Scopes and Closures Book.
 
@@ -903,7 +903,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 02m 2s
 
-### Day 63: 05.03.2018  
+### Day 64: 05.03.2018  
 
 **Progress:** Reviewed the Scopes and Closures Book.
 
@@ -920,7 +920,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 07m 40s
 
-### Day 64: 06.03.2018  
+### Day 65: 06.03.2018  
 
 **Progress:** Read the appendix of Scopes and Closures Book and started with the this & Object Prototypes book.
 
@@ -934,7 +934,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 03m 58s
 
-### Day 65: 07.03.2018  
+### Day 66: 07.03.2018  
 
 **Progress:** Finished the second chapter and reviewed the first one
 
@@ -948,7 +948,7 @@ So, I'm going to do the DOM playlist to try it one more time and then move on to
 
 **Time:** 1h 01m 30s
 
-### Day 66: 08.03.2018  
+### Day 67: 08.03.2018  
 
 **Progress:** Finished the third chapter of the 'this & Object Prototypes book'.
 
@@ -965,7 +965,7 @@ Nice change of pase to review some ES6 syntax and do a little refresher.
 
 **Time:** 1h 02m 14s
 
-### Day 67: 09.03.2018  
+### Day 68: 09.03.2018  
 
 **Progress:** Started with Daniel Shiffman's video's about ES6.
 
@@ -978,7 +978,7 @@ Nice change of pase to review some ES6 syntax and do a little refresher.
 
 **Time:** 1h 06m 43s
 
-### Day 68: 10.03.2018  
+### Day 69: 10.03.2018  
 
 **Progress:** Continued with Daniel Shiffman's video's about ES6.
 
@@ -989,7 +989,7 @@ Nice change of pase to review some ES6 syntax and do a little refresher.
 
 **Time:** 1h 04m 55s
 
-### Day 69: 11.03.2018  
+### Day 70: 11.03.2018  
 
 **Progress:** Finished the last video's from Daniel Shiffman's about ES6.
 
@@ -1002,7 +1002,7 @@ Nice change of pase to review some ES6 syntax and do a little refresher.
 
 **Time:** 1h 09m 04s
 
-### Day 70: 12.03.2018  
+### Day 71: 12.03.2018  
 
 **Progress:** Started watching some more video's from Daniel Shiffman.
 
@@ -1017,7 +1017,7 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 
 **Time:** 1h 02m 14s
 
-### Day 71: 13.03.2018  
+### Day 72: 13.03.2018  
 
 **Progress:** Continued watching some more video's about JavaScript foundations from Daniel Shiffman.
 
@@ -1028,7 +1028,7 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 
 **Time:** 1h 00m 28s
 
-### Day 72: 14.03.2018  
+### Day 73: 14.03.2018  
 
 **Progress:** Continued watching video's about JavaScript foundations from Daniel Shiffman.
 
@@ -1039,7 +1039,7 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 
 **Time:** 1h 04m 43s
 
-### Day 73: 15.03.2018  
+### Day 74: 15.03.2018  
 
 **Progress:** Continued watching video's about JavaScript foundations from Daniel Shiffman.
 
@@ -1050,7 +1050,7 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 
 **Time:** 1h 01m 12s
 
-### Day 74: 16.03.2018  
+### Day 75: 16.03.2018  
 
 **Progress:** Continued watching video's about JavaScript foundations from Daniel Shiffman.
 
@@ -1100,3 +1100,17 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [HTML / CSS / DOM](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX&index=1)  
 
 **Time:** 1h 07m 47s
+
+### Day 79: 20.03.2018  
+
+**Progress:** Finished the DOM video's from Daniel Shiffman. Also watched the video about linting.
+
+**Notes:** The video's from Daniel Shiffman are fun but the topics are too basic. Want some more advanced stuff. Let's see if MPJ has some more in-depth JS video's.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [HTML / CSS / DOM](https://www.youtube.com/watch?v=URSH0QpxKo8&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX&index=1)  
+* [Linting with ESLint](https://www.youtube.com/watch?v=clzTwZgMlqE)
+
+**Time:** 1h 04m 04s
