@@ -1114,3 +1114,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Linting with ESLint](https://www.youtube.com/watch?v=clzTwZgMlqE)
 
 **Time:** 1h 04m 04s
+
+### Day 80: 21.03.2018  
+
+**Progress:** Started with the Fun Fun Function - Functional Programming video's.
+
+**Notes:** Really like the style of his video's, energetic af. But he does take the right of amount to explain a concept and gives good practical examples.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+
+**Time:** 1h 05m 35s
