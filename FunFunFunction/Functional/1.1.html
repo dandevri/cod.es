@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun Fun Function</title>
+</head>
+<body>
+  <script>
+    // This is pretty common in programming languages
+    function triple(x) {
+      return x * 3;
+    }
+
+    // Not all languages can do this
+    var triple = function(x) {
+      return x * 3;
+    }
+
+    var waffle = triple;
+    console.log(waffle(30));
+
+    // Decouple the callback function
+    var isDog = function(animal) {
+      return animal.species === 'dogs';
+    }
+
+    var dogs = animals.filter(isDog)
+  </script>
+</body>
+</html>

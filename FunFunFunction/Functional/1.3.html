@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun Fun Function</title>
+</head>
+<body>
+  <script>
+      var orders = [
+        { amount: 250 },
+        { amount: 400 },
+        { amount: 100 },
+        { amount: 325 }
+      ]
+
+      var totalAmount = orders.reduce(function(sum, order) {
+        console.log(sum, order);
+        return sum + order.amount;
+      }, 0)
+  </script>
+</body>
+</html>
