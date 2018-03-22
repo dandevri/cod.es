@@ -1127,3 +1127,14 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
 
 **Time:** 1h 05m 35s
+
+### Day 81: 22.03.2018  
+
+**Progress:** Continued watching the Fun Fun Function - Functional Programming video's.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+
+**Time:** 1h 02m 29s
