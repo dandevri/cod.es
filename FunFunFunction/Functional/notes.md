@@ -27,3 +27,16 @@ Functions are also closures. The function body has access to variables that are 
 the function will remember the outer context.
 callbacks do have access to the variables inside the outer function.
 Closures is one of the concepts that are really important to JS. Have to use alot in your own code.
+
+## 6 - Currying
+When a function doesn't take all it's arguments upfront. The feeling of confusion means that you are learning. It's basically a chain of function returns.
+Function can pass through the application. You can store each seperate function in a variable.
+Every functional library most of the time can make a function curry.
+
+## 7 - Recursion
+Recursion; when a function calls itself until it doesn't.
+Call stack; stack of function calls the code made. ES6 removed the limit. Tail call optimization.
+Simple example of recursion is a countdown. The function calls itself until return condition.
+
+Everytime you do a loop, you can use recursion instead. Doesn't work the other way around.
+Don't start coding to early, take the time to see the problem.
