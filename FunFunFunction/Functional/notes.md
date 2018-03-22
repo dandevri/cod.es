@@ -40,3 +40,18 @@ Simple example of recursion is a countdown. The function calls itself until retu
 
 Everytime you do a loop, you can use recursion instead. Doesn't work the other way around.
 Don't start coding to early, take the time to see the problem.
+
+## 8 - Promises
+When this thing is done call this code. (callbacks)
+Promises are more composable as promises. A promise returns not the value itself.
+Money analogy; banks has the promise of lending you money and then you can go to people to buy a house.
+Promise gets resolve and reject as arguments. These are functions aswell.
+Promise.all will in turn return a new promise.
+
+Promises are just like callback, they handle async code. Promises are more powerful then callbacks because they compose.
+
+## 9 - Functors
+Functors; map and filters are functors for example.
+You want to handle more types of arguments. e.g. an array or strings
+Functor family.
+Functor; a function that when given a value and a function will unwrap the value into it's part, feed those parts into the function and takes the return value in a structured form.
