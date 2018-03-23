@@ -1138,3 +1138,17 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
 
 **Time:** 1h 02m 29s
+
+### Day 82: 23.03.2018  
+
+**Progress:** Continued watching the Fun Fun Function - Functional Programming video's and started with the Object creation ones.
+
+**Notes:** MPJ does give alot of background information which makes sure you understand the topic of the specific thing you are learning.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)  
+* [Object Creation](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+
+**Time:** 1h 03m 15s
