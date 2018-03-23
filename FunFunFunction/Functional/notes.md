@@ -50,8 +50,26 @@ Promise.all will in turn return a new promise.
 
 Promises are just like callback, they handle async code. Promises are more powerful then callbacks because they compose.
 
-## 9 - Functors
+## 10 - Functors
 Functors; map and filters are functors for example.
 You want to handle more types of arguments. e.g. an array or strings
 Functor family.
 Functor; a function that when given a value and a function will unwrap the value into it's part, feed those parts into the function and takes the return value in a structured form.
+
+## 11 - Functors again
+Functors are objects that have a .map method. The .map is not the functor it's the object.
+*The best place to learn HTML isn't always the HTML specification.*
+
+Qualifications of a functor: 
+Transformation of contents; takes the content of the functor and applies a transformation function.
+Structure; the map doesn't returns an array of the same length. We can chain map calls.
+
+Break up your program into really tiny functions and then compose them together. Reuse more code than for example oop.
+
+## 13 - Streams
+Stream of data; you can attach something at the end of the stream (a net). Handler.
+Promise and array having a baby, built-in nodejs.
+Process a file of data which can't fit inside memory.
+
+## 21 - Monad
+Monads are types of functors. Monad also implements a flatmap.

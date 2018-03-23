@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun Fun Function</title>
+</head>
+<body>
+  <script>
+    let dog = {
+      sound: 'woof',
+      talk() {
+        console.log(this.sound);
+      }
+    }
+    dog.talk();
+
+    let talkFunction = dog.talk;
+    let boundFunction = talkFunction.bind(dog)
+    talkFunction();
+    boundFunction();
+    
+  </script>
+</body>
+</html>
