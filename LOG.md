@@ -1152,3 +1152,14 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Object Creation](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 
 **Time:** 1h 03m 15s
+
+### Day 83: 24.03.2018  
+
+**Progress:** Continued watching the Fun Fun Function - Object creation video's.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Object Creation](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+
+**Time:** 1h 06m 05s
