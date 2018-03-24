@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun Fun Function</title>
+</head>
+<body>
+  <script>
+    function talk() {
+      console.log(this.sound);
+    }
+
+    talk();
+
+    let boromir = {
+      speak: talk, // reference to talk function is assigned as property
+      sound: 'Walk my son'
+    }
+
+    boromir.speak(); // mean to use the boromir context
+
+    // let talkToBound = talk.bind(boromir)
+    // talkToBound();
+
+  </script>
+</body>
+</html>

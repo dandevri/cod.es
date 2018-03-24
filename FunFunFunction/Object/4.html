@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun Fun Function</title>
+</head>
+<body>
+  <script>
+    // function Person(saying) {
+    //   this.saying = saying
+    // }
+
+    // Person.prototype.talk = function() {
+    //   console.log('I say:', this.saying);
+    // }
+
+    // var crockford = new Person('Semicolons');
+    // crockford.talk();
+
+    // Build own new function
+    function newObj(constructor) {
+      var obj = {}
+      Obj.setPrototypeOf(obj, constructor.prototype)
+      constructor.apply // bind and executes immed
+    }
+
+  
+  </script>
+</body>
+</html>

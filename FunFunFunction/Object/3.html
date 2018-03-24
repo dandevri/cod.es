@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fun Fun Function</title>
+</head>
+<body>
+  <script>
+    // function talk(sound) {
+    //   console.log(sound)
+    // }
+
+    // talk('wooof');
+
+    function talk() {
+      console.log(this.sound);
+    }
+
+    let animal = {
+      // talk: talk // property with same name as value
+      talk
+    }
+
+    let cat = {
+      sound: 'meow!'
+    }
+
+    Object.setPrototypeOf(cat, animal);
+    animal.talk = function() {
+      console.log('stuff');
+    }
+    cat.talk();
+    animal.talk();
+  </script>
+</body>
+</html>
