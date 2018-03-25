@@ -1163,3 +1163,18 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Object Creation](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 
 **Time:** 1h 06m 05s
+
+**Time:** 1h 03m 15s
+
+### Day 84: 25.03.2018  
+
+**Progress:** Finished the Fun Fun Function - Object creation video's.
+
+**Notse:** Not quite sure what to do next, I've watched most of the Youtube Video series that I wanted. Still have 16 days left so I wont really want to start a whole new extensive course. Maybe there are some more in-depth JavaScript resources out there that are worth doing? Not quire sure yet.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Object Creation](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
+
+**Time:** 1h 06m 51s
