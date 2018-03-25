@@ -42,3 +42,24 @@ arguments keyword isn't an array.
 2. Set the prototype
 3. Execute constructor with this
 4. return created object
+
+## P5 - _proto_
+What is proto; 
+Prototype are not like classes based inheritance. It are just objects delegated to other objects.
+The proto object is not an instance, it's a reference.
+ALl we are doing with objects is delegation; delegating to other objects.
+Prototypes are only defined on object constructors (with functions)
+
+proto points out the prototype that has beeing set
+prototype is the property on a function that is set with the new keyword.
+
+## P6 - Create
+Static method on the object prototype
+Creates a new object with the prototype set to a certain object.
+
+why object.create what's the purpose.
+Messing with the prototype comes with alot of performance issues. Prefer to use object.create.
+
+## P7 - Class keyword
+Know parts of JS and choose not to use it. That's always better than not learning. (avoiding it)
+Prefer composition over inheritance.
