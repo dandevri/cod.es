@@ -1178,3 +1178,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Object Creation](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 
 **Time:** 1h 06m 51s
+
+### Day 85: 26.03.2018  
+
+**Progress:** Started reading some more JS documentation from MDN.
+
+**Notse:** Cherry-picking some overall JavaScript topics to review, some more advanced topics.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+**Time:** 1h 02m 14s
