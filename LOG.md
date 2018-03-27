@@ -1191,3 +1191,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 **Time:** 1h 02m 14s
+
+### Day 86: 27.03.2018  
+
+**Progress:** Continued reading JS documentation from MDN.
+
+**Notse:** Just going through most of the general syntax for refreshment. It's nice to get a more detailed description of some syntax. Want to read some more about object, prototypes and inheritance which come later inn the guide.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+**Time:** 1h 02m 57s
