@@ -146,3 +146,89 @@ Template literals are string literals allowing embedded expressions. You can use
 The Intl object is the namespace for the ECMAScript Internationalization API, which provides language sensitiv.
 
 ## Regular expressions
+Regular expressions are patterns used to match character combinations in strings.
+* regular expression literal
+* regexp constructor object
+
+## Indexed collections
+Collections of data ordered by index value.
+
+### Array
+Ordered set of values.
+Length is the index value plus 1.
+Refer to array items with bracket notation.
+Iterate over the values of the array.
+If the array only consist of dome nodes (nodelist) you can even do a more efficient loop. forEach can also mbe used. function passed to foreach will be aplied to each item.
+
+The sort method and other methods below that take a callback are known as iterative methods, because they iterate over the entire array in some fashion.
+
+Arrays can be nested, meaning that an array can contain another array as an element. Using this characteristic of JavaScript arrays, multi-dimensional arrays can be created.
+
+Some JavaScript objects look and behave like arrays on the surface but do not share all of their methods.
+
+### Typed arrays
+JavaScript typed arrays are array-like objects and provide a mechanism for accessing raw binary data. JavaScript engines perform optimizations so that these arrays are fast.
+
+JavaScript typed arrays split the implementation into buffers and views. In order to access the memory contained in a buffer, you need to use a view.
+
+## Keyed Collections
+Collections of data which are stored by key.
+
+### map
+Objects allow you to set keys to values, retrieve those values, delete keys, and detect whether something is stored at a key. Map objects, however, have a few more advantages that make them better maps.
+
+### weakmap
+The WeakMap object is a collection of key/value pairs in which the keys are objects only and the values can be arbitrary values. One difference to Map objects is that WeakMap keys are not enumerable (i.e., there is no method giving you a list of the keys).
+
+### sets
+A value in a Set may only occur once; it is unique in the Set's collection.
+
+## Working with Objects
+JavaScript is designed on a simple object-based paradigm. An object is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is known as a method.
+
+### Properties
+A property of an object can be explained as a variable that is attached to the object. Objects are sometimes called associative arrays, since each property is associated with a string value that can be used to access it. Starting with ECMAScript 5, there are three native ways to list/traverse object properties.
+
+### Creating objects
+* object initializer; literal notation
+* constructor function; use of this to assign values
+* object.create; This method can be very useful, because it allows you to choose the prototype object for the object you want to create, without having to define a constructor function.
+
+All objects in JavaScript inherit from at least one other object. The object being inherited from is known as the prototype.
+
+You can refer to a property of an object either by its property name or by its ordinal index. 
+
+You can add a property to a previously defined object type by using the prototype property. This defines a property that is shared by all objects of the specified type, rather than by just one instance of the object.
+
+### Methods
+A method is a function associated with an object, or, simply put, a method is a property of an object that is a function
+
+### this
+JavaScript has a special keyword, this, that you can use within a method to refer to the current object. In general, this refers to the calling object in a method.
+
+A getter is a method that gets the value of a specific property. A setter is a method that sets the value of a specific property.
+
+In JavaScript objects are a reference type. Two distinct objects are never equal, even if they have the same properties. Only comparing the same object reference with itself yields true.
+
+## Object model
+JavaScript is an object-based language based on prototypes,rather than being class-based. Classes and instances.
+
+A prototype-based language, such as JavaScript, does not make this distinction: it simply has objects. A prototype-based language has the notion of a prototypical object, an object used as a template from which to get the initial properties for a new object. Any JavaScript function can be used as a constructor. You use the new operator with a constructor function to create a new object.
+
+### Hierarchy
+In JavaScript, you add a prototypical instance as the value of the prototype property of the constructor function. 
+
+Objects inherit properties from other objects in the prototype chain. When JavaScript sees the new operator, it creates a new generic object and implicitly sets the value of the internal property. 
+
+When you create constructors, you need to be careful if you set global information in the constructor. 
+
+JavaScript does not support multiple inheritance.
+
+## Iterators and Generators
+Processing each of the items in a collection is a very common operation. JavaScript provides a number of ways of iterating over a collection.
+
+An object is an iterator when it knows how to access items from a collection one at a time, while keeping track of its current position within that sequence.
+
+Generators provide a powerful alternative: they allow you to define an iterative algorithm by writing a single function which can maintain its own state.
+
+An object is iterable if it defines its iteration behavior, such as what values are looped over in a for...of construct.
