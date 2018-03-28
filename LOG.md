@@ -1204,3 +1204,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 **Time:** 1h 02m 57s
+
+### Day 87: 28.03.2018  
+
+**Progress:** Continued reading JS documentation from MDN.
+
+**Notes:** Finished most of the important stuff from the guide. Maybe need to look for some other resource tomorrow to continue with. Maybe some more interactive courses, like freecodecamp or something similar. Let's see if there is something out there.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+**Time:** 1h 00m 13s
