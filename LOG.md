@@ -1217,3 +1217,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 **Time:** 1h 00m 13s
+
+### Day 88: 28.03.2018  
+
+**Progress:** Watched some Video Challenges from FreeCodeCamp.
+
+**Notes:** They go trough a couple of general programming concepts. Not specifically JavaScript.
+
+**Results:** The notes are pushed to this repo. You watch the progress on my [FCC account](https://www.freecodecamp.org/dandevri)
+
+**Resources:** 
+* [FreeCodeCamp Videos](https://www.freecodecamp.org/videos/)
+
+**Time:** 1h 07m 10s
