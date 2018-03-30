@@ -1230,3 +1230,15 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [FreeCodeCamp Videos](https://www.freecodecamp.org/videos/)
 
 **Time:** 1h 07m 10s
+
+
+### Day 89: 29.03.2018  
+
+**Progress:** Started watching some JavaScript videos from Egghead.
+
+**Results:** The notes and examples from the video's are pushed to this repo.
+
+**Resources:** 
+* [Asynchronous Programming](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop)
+
+**Time:** 1h 03m 41s
