@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Egghead</title>
+</head>
+<body>
+  <script>
+    // For each
+    var symbols = [];
+
+    function getStockSymbols(stocks) {
+      stocks.forEach(stock => {
+        symbols.push(stock.symbol);
+      })
+    }
+
+    var symbols = getStockSymbols()
+
+    // Map
+    function getStockSymbols(stocks) {
+      return stocks.map(stock => {
+        return stock.symbol;
+      })
+    }
+
+    // Filter
+    function getStocksOver(stocks, minPrice) {
+      // var results = [];
+      // stocks.forEach(stock => {
+      //   if(stock.price >= minPrice) {
+      //     results.push(stock);
+      //   }
+      // })
+      return stocks.filter(stock => stock >= minprice);
+    }
+
+    // Chaining
+    var stocks = [];
+    var filtered = stocks
+      .filter(stock => stock.price >= 150)
+      .map(stock => stock.symbol);
+
+    filtered.forEach(symbol => console.log(symbol));
+
+    var expensiveStocks = getStocksOver();
+
+    // concatAll
+    var exchanges = [];
+
+    Array.prototype.concatAll = function() {
+      var results = [];
+
+      this.forEach(function(subArray) {
+        subArray.forEach(function(item) {
+          results.push(item);
+        })
+      });
+      return results;
+    };
+
+    exhanges.forEach(exchange => {
+      exchange.forEach(stock => console.log(stock));
+    })
+
+    var stocks = exchanges.concatAll().forEach(stock => console.log(stock));
+
+  </script>
+</body>
+</html>
