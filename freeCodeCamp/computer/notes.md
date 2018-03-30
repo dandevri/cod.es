@@ -41,3 +41,23 @@ Internet can only deliver something to an IP address. Each device has one. IP ad
 Device > modem > router. Request response to a server (web server)
 
 CDN; Deliver content to the user as fast as possible. CDN's pay ISP for the faster route. Servers across the world.
+
+Routers connect all the devices in a local area. Each router only has to know it's own little network. The information that get sends are called packets.
+
+## Analog vs Digital
+Computer measures waves (this is called sampling) and turn them into numbers.
+
+## Source Code
+Text document that a programmer creates. The computer needs a way to interpreter that.
+* interpreter; browser interpret it
+* compiler; product is already compiled (on programmers end)
+
+All documentation and source code can be accessible. This is called open-source.
+
+## Console
+Display system messages; tool for debugging. 
+
+## Variables
+-
+
+Dictionary attacks.
