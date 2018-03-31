@@ -1242,3 +1242,17 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Asynchronous Programming](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop)
 
 **Time:** 1h 03m 41s
+
+### Day 90: 30.03.2018  
+
+**Progress:** Working on some other Nodeschool workshoppers.
+
+**Notes:** There were alot of useful workshoppers I didn't do when I started. Some of them are quite nice and working my way trough them. Only the workshoppers that cover JavaScript ofcourse. The workshoppers are nice because of the mix between text (learning) and interactive by making examples.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Scope Chain & Closures](https://github.com/workshopper/scope-chains-closures)
+* [Count To 6](https://github.com/domenic/count-to-6)
+
+**Time:** 1h 07m 16s
