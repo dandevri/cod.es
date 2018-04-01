@@ -1256,3 +1256,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Count To 6](https://github.com/domenic/count-to-6)
 
 **Time:** 1h 07m 16s
+
+### Day 91: 01.04.2018  
+
+**Progress:** Finished the ES6 Nodeschool workshopper.
+
+**Notes:** There are alot of very interesting workshoppers that are focussed on JavaScript so I think I'm goingg to do only workshoppers the last couple of days! The Planet Proto only looks pretty nice aswell. 
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Count To 6](https://github.com/domenic/count-to-6)
+
+**Time:** 1h 10m 04s
