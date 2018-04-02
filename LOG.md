@@ -1269,3 +1269,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Count To 6](https://github.com/domenic/count-to-6)
 
 **Time:** 1h 10m 04s
+
+### Day 92: 02.04.2018  
+
+**Progress:** Finished the Planet Proto Nodeschool workshopper.
+
+**Notes:** Nice interactive workshopper about prototypal inheritance and the different meanings of the prototype. It's really nice that you can finish a whole workshop in an hour. Get some knowledge and make some notes but also the interactive part by actually writing some of the code.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Planet Proto](https://github.com/sporto/planetproto)
+
+**Time:** 1h 00m 36s
