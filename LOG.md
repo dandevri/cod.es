@@ -1282,3 +1282,15 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Planet Proto](https://github.com/sporto/planetproto)
 
 **Time:** 1h 00m 36s
+
+### Day 93: 03.04.2018  
+
+**Progress:** Finished the JavaScript best practices workshop and started with Promises.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
+* [Promise it wont hurt](https://github.com/stevekane/promise-it-wont-hurt)
+
+**Time:** 1h 07m 59s
