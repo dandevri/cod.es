@@ -1313,12 +1313,13 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 
 ### Day 94: 04.04.2018  
 
-**Progress:** Finished the JavaScript best practices workshop and started with Promises.
+**Progress:** Did most of the promises Nodeschool workshopper.
+
+**Notes:** Did a quick check for all of the dates and they seem fine. Only 6 days to go. Looks like I made a commit on day 38 but it was overwritten. Seems like a local overwrite issue but fixed it now. Going to pick some last nodeschool workshoppers the last couple of days!
 
 **Results:** The notes and examples from the workshopper are pushed to this repo.
 
 **Resources:** 
-* [Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
 * [Promise it wont hurt](https://github.com/stevekane/promise-it-wont-hurt)
 
-**Time:** 1h 07m 59s
+**Time:** 1h 02m 42s
