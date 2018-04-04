@@ -582,6 +582,22 @@ It's also because of Wes Bos his style, nice and quick paced and you can easily 
 
 **Time:** 1h 00m 38s
 
+### Day 38: 07.02.2018  
+
+**Progress:** Started module 20 from the ES6 course.
+
+**Notes:** Some pretty long video's with stuff to wrap your hear around. These features make your code very clean but it's a bit less verbose. So less lines but a bit harder to read.
+
+**Results:** Pushed the notes and examples to the [ES6 repo](https://github.com/dandevri/es6.io).
+
+**Resources:** 
+
++* [Wes Bos ES6 for everyone](https://es6.io/)
+
+**Time:** 1h 00m 25s
+
+**Due to an error this day does appear in my commit but not in the most recent version. [Commit](https://github.com/dandevri/cod.es/commit/8927ef08024002062b55264e21f12a730da67324#diff-7dc322b968f30b459f671515f45b7ac5)**
+
 ### Day 39: 08.02.2018  
 
 **Progress:** Finished the ES6 for Everyone course 🎉
@@ -1284,6 +1300,18 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 **Time:** 1h 00m 36s
 
 ### Day 93: 03.04.2018  
+
+**Progress:** Finished the JavaScript best practices workshop and started with Promises.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Best Practices](https://github.com/excellalabs/js-best-practices-workshopper)
+* [Promise it wont hurt](https://github.com/stevekane/promise-it-wont-hurt)
+
+**Time:** 1h 07m 59s
+
+### Day 94: 04.04.2018  
 
 **Progress:** Finished the JavaScript best practices workshop and started with Promises.
 
