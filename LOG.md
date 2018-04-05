@@ -1323,3 +1323,14 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Promise it wont hurt](https://github.com/stevekane/promise-it-wont-hurt)
 
 **Time:** 1h 02m 42s
+
+### Day 95: 05.04.2018  
+
+**Progress:** Started with the *Tower of Babel* Workshopper.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Tower of Babel](https://github.com/yosuke-furukawa/tower-of-babel)
+
+**Time:** 1h 00m 46s
