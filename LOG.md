@@ -1334,3 +1334,18 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Tower of Babel](https://github.com/yosuke-furukawa/tower-of-babel)
 
 **Time:** 1h 00m 46s
+
+### Day 96: 06.04.2018  
+
+**Progress:** Started some ES6 workshoppers.
+
+**Notes:** Basically did all the nodeschool workshoppers I wanted to do. So maybe fill the last couple of days with some more programming video's on youtube. Not quite sure which ones.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [FFF - Async Await](https://www.youtube.com/watch?v=568g8hxJJp4)
+* [Tower of Babel](https://github.com/yosuke-furukawa/tower-of-babel)
+* [Generators](https://github.com/isRuslan/learn-generators)
+
+**Time:** 1h 10m 02s
