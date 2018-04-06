@@ -22,3 +22,15 @@ In ES6 the way to access and define object literals has been improved. It is now
 
 ## Iterator for Of
 In ES6 the for of way to iterate over an array has been added.
+
+## Generator
+The difference to other ways is the function* notation and that you use yield where you would have used return before.
+
+## Destructure
+This new syntax is similar to the destructuring in Clojure. It makes it easier to access properties of arrays and objects.
+
+## Arrow Function
+-
+
+## Rest and Spread
+But since arguments is not an array several methods (like map or reduce) could not be used.
