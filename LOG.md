@@ -1349,3 +1349,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Generators](https://github.com/isRuslan/learn-generators)
 
 **Time:** 1h 10m 02s
+
+### Day 97: 07.04.2018  
+
+**Progress:** Worked through the new Codecademy JavaScript course.
+
+**Notes:** New version of the course is online, was skeptic at first but it's quite good and features some ES6. Some of the stuff is far to easy but it's nice to do the last couple of days.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+**Time:** 1h 06m 11s
