@@ -33,3 +33,8 @@ Scope refers to where a variable can be accessed in a program.
 
 ## Loops
 -
+
+## Iterators
+Looping over arrays is a pretty common task. These methods, called iterators, are called on arrays and complete such tasks as altering each element and selecting elements that fit certain criteria.
+
+## Objects

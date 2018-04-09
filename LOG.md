@@ -1373,3 +1373,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 **Time:** 1h 04m 36s
+
+### Day 99: 09.04.2018  
+
+**Progress:** Continued with the new Codecademy JavaScript course.
+
+**Notes:** Almost the last day 🎉 Pretty busy the upcoming days so probably going to expand on the readme after day 100. Write up some toughts of the whole course and how I felt about it.
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+**Time:** 1h 01m 45s
