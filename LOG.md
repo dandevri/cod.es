@@ -1386,3 +1386,16 @@ When I'm finished I want to start watching some video's by mpj (fun fun function
 * [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 **Time:** 1h 01m 45s
+
+### Day 100: 10.04.2018  
+
+**Progress:** Continued with the new Codecademy JavaScript course.
+
+**Notes:** I actually freaking did it! 🎉 Going to do a little writeup at the end of this week about my experience but wow 100 days... that's quite the achievement! Also going to put the Toggle logs inside the repo, as proof 🤯
+
+**Results:** The notes and examples from the workshopper are pushed to this repo.
+
+**Resources:** 
+* [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+
+**Time:** 1h 00m 09s
